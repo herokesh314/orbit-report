@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
-import { Satellite } from 'app./satellite';
+import { Satellite } from 'src/app/satellite';
   import { SourceListMap } from 'source-list-map';
+import { Source } from 'webpack-sources';
 
 @Component({
   selector: 'app-root',
@@ -9,9 +10,8 @@ import { Satellite } from 'app./satellite';
 })
 export class AppComponent {
   title = 'orbit-report';
-}
 
-sourceList: Satellite[];
+ sourceList: Satellite[];
 constructor() {
   this.sourceList = [
      new Satellite("SiriusXM", "Communication", "2009-03-21", "LOW", true),
@@ -20,4 +20,5 @@ constructor() {
      new Satellite("GPS 938", "Positioning", "2001-11-01", "HIGH", true),
      new Satellite("ISS", "Space Station", "1998-11-20", "LOW", true),
   ];
+}
 }
