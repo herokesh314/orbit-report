@@ -1,0 +1,4197 @@
+bplist00“_WebMainResource_WebSubresources’	
+_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMETypeUUTF-8_ghttps://www.amazon.com/gp/css/summary/print.html/ref=oh_aui_pi_o01_?ie=UTF8&orderID=112-8422265-0838636POÊ˚<html><head><script async="" src="https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/ClientSideMetricsAUIJavascript-bd84e873cef249017676691c4d161b6db4892d5e._V2_.js" crossorigin="anonymous"></script>
+<script type="text/javascript">var ue_t0=ue_t0||+new Date();</script>
+<script type="text/javascript">
+var ue_hob=+new Date();
+var ue_id='2AERSYJE4PYQF71QQ91D',
+ue_csm = window,
+ue_err_chan = 'jserr-rw',
+ue = {};
+(function(d){var e=d.ue=d.ue||{},f=Date.now||function(){return+new Date};e.d=function(b){return f()-(b?0:d.ue_t0)};e.stub=function(b,a){if(!b[a]){var c=[];b[a]=function(){c.push([c.slice.call(arguments),e.d(),d.ue_id])};b[a].replay=function(b){for(var a;a=c.shift();)b(a[0],a[1],a[2])};b[a].isStub=1}};e.exec=function(b,a){return function(){if(1==window.ueinit)try{return b.apply(this,arguments)}catch(c){ueLogError(c,{attribution:a||"undefined",logLevel:"WARN"})}}}})(ue_csm);
+
+ue.stub(ue,"log");ue.stub(ue,"onunload");ue.stub(ue,"onflush");
+
+(function(d,e){function h(f,b){if(!(a.ec>a.mxe)&&f){a.ter.push(f);b=b||{};var c=f.logLevel||b.logLevel;c&&c!==k&&c!==m&&c!==n&&c!==p||a.ec++;c&&c!=k||a.ecf++;b.pageURL=""+(e.location?e.location.href:"");b.logLevel=c;b.attribution=f.attribution||b.attribution;a.erl.push({ex:f,info:b})}}function l(a,b,c,e,g){d.ueLogError({m:a,f:b,l:c,c:""+e,err:g,fromOnError:1,args:arguments},g?{attribution:g.attribution,logLevel:g.logLevel}:void 0);return!1}var k="FATAL",m="ERROR",n="WARN",p="DOWNGRADED",a={ec:0,ecf:0,
+pec:0,ts:0,erl:[],ter:[],mxe:50,startTimer:function(){a.ts++;setInterval(function(){d.ue&&a.pec<a.ec&&d.uex("at");a.pec=a.ec},1E4)}};l.skipTrace=1;h.skipTrace=1;h.isStub=1;d.ueLogError=h;d.ue_err=a;e.onerror=l})(ue_csm,window);
+
+ue.stub(ue,"event");ue.stub(ue,"onSushiUnload");ue.stub(ue,"onSushiFlush");
+
+var ue_url='/gp/css/summary/print.html/ref=oh_aui_pi_o01_/uedata/nvp/unsticky/131-7923093-8222458/YourAccount/ntpoffrw',
+ue_sid='131-7923093-8222458',
+ue_mid='ATVPDKIKX0DER',
+ue_sn='www.amazon.com',
+ue_furl='fls-na.amazon.com',
+ue_surl='//unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod',
+ue_navtiming=1,
+ue_fcsn=1,
+ue_isrw=true,
+ue_fpf='//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:131-7923093-8222458:2AERSYJE4PYQF71QQ91D$uedata=s:',
+ue_qsl=2000,
+ue_rpl_ns=0,
+ue_orct=1,
+ue_int=0,
+ue_adb=1,
+ue_adb_rtla=1,
+ue_cel_hrt=-1,
+ue_retry=3,
+ue_cel_ae=1,
+ue_ddq=1,
+ue_cel_tc=1,
+ue_bfd=0,
+ue_clf=0;
+
+if (!window.ue_csm) {var ue_csm = window;}
+function ue_viz(){(function(c,e,a){function k(b){if(c.ue.viz.length<p&&!l){var a=b.type;b=b.originalEvent;/^focus./.test(a)&&b&&(b.toElement||b.fromElement||b.relatedTarget)||(a=e[m]||("blur"==a||"focusout"==a?"hidden":"visible"),c.ue.viz.push(a+":"+(+new Date-c.ue.t0)),"visible"==a&&(ue.isl&&uex("at"),l=1))}}for(var l=0,f,g,m,n=["","webkit","o","ms","moz"],d=0,p=20,h=0;h<n.length&&!d;h++)if(a=n[h],f=(a?a+"H":"h")+"idden",d="boolean"==typeof e[f])g=a+"visibilitychange",m=(a?a+"V":"v")+"isibilityState";
+k({});d&&e.addEventListener(g,k,0);c.ue&&d&&(c.ue.pageViz={event:g,propHid:f})})(ue_csm,document,window)};
+
+(function(a,g){function v(a){return a&&a.replace&&a.replace(/^\s+|\s+$/g,"")}function p(a){return"undefined"===typeof a}function t(d,c,e,h){var g=h||+new Date,m;a.ueam&&a.ueam(c,d,h);if(c||p(e)){if(d)for(m in h=c?f("t",c)||f("t",c,{}):a.ue.t,h[d]=g,e)e.hasOwnProperty(m)&&f(m,c,e[m]);return g}}function f(d,c,e){var f=a.ue,g=c&&c!=f.id?f.sc[c]:f;g||(g=f.sc[c]={});"id"==d&&e&&(f.cfa2=1);return g[d]=e||g[d]}function w(d,c,e,f,g){e="on"+e;var m=c[e];"function"===typeof m?d&&(a.ue.h[d]=m):m=function(){};
+c[e]=g?function(a){f(a);m(a)}:function(a){m(a);f(a)};c[e]&&(c[e].isUeh=1)}function A(d,c,e){function h(c,e){var b=[c],D=0,g={},m,h;e?(b.push("m=1"),g[e]=1):g=a.ue.sc;for(h in g)if(g.hasOwnProperty(h)){var k=f("wb",h),l=f("t",h)||{},q=f("t0",h)||a.ue.t0,n;if(e||2==k){k=k?D++:"";b.push("sc"+k+"="+h);for(n in l)3>=n.length&&!p(l[n])&&null!==l[n]&&b.push(n+k+"="+(l[n]-q));b.push("t"+k+"="+l[d]);if(f("ctb",h)||f("wb",h))m=1}}!x&&m&&b.push("ctb=1");return b.join("&")}function z(c,b,e,d){if(c){var f=a.ue_err,
+h;d&&a.ue.log||(h=new Image,a.ue.iel.push(h),h.src=c);E?a.ue_fpf&&g.encodeURIComponent&&c&&(d=new Image,c=""+a.ue_fpf+g.encodeURIComponent(c)+":"+(+new Date-a.ue_t0),a.ue.iel.push(d),d.src=c):a.ue.log&&(h=g.chrome&&"ul"==b,a.ue.log(c,"uedata",a.ue_svi?{n:1,img:!d&&h?1:0}:{n:1}),a.ue.ielf.push(c));f&&!f.ts&&f.startTimer();a.ue.b&&(f=a.ue.b,a.ue.b="",z(f,b,e,1))}}function m(c){if(!ue.collected){var b=c.timing,e=c.navigation,d=ue.t;b&&(d.na_=b.navigationStart,d.ul_=b.unloadEventStart,d._ul=b.unloadEventEnd,
+d.rd_=b.redirectStart,d._rd=b.redirectEnd,d.fe_=b.fetchStart,d.lk_=b.domainLookupStart,d._lk=b.domainLookupEnd,d.co_=b.connectStart,d._co=b.connectEnd,d.sc_=b.secureConnectionStart,d.rq_=b.requestStart,d.rs_=b.responseStart,d._rs=b.responseEnd,d.dl_=b.domLoading,d.di_=b.domInteractive,d.de_=b.domContentLoadedEventStart,d._de=b.domContentLoadedEventEnd,d._dc=b.domComplete,d.ld_=b.loadEventStart,d._ld=b.loadEventEnd,b=d.na_,c="function"!==typeof c.now||p(b)?0:new Date(b+c.now())-new Date,d.ntd=c+a.ue.t0);
+e&&(d.ty=e.type+a.ue.t0,d.rc=e.redirectCount+a.ue.t0);ue.collected=1}}function s(b){var c=n&&n.navigation?n.navigation.type:y,d=c&&2!=c,e=a.ue.bfini;a.ue.cfa2||(e&&1<e&&(b+="&bfform=1",d||(a.ue.isBFT=e-1)),2==c&&(b+="&bfnt=1",a.ue.isBFT=a.ue.isBFT||1),a.ue.ssw&&a.ue.isBFT&&(p(a.ue.isNRBF)&&(c=a.ue.ssw(a.ue.oid),c.e||p(c.val)||(a.ue.isNRBF=1<c.val?0:1)),p(a.ue.isNRBF)||(b+="&nrbf="+a.ue.isNRBF)),a.ue.isBFT&&!a.ue.isNRBF&&(b+="&bft="+a.ue.isBFT));return b}if(c||p(e)){for(var q in e)e.hasOwnProperty(q)&&
+f(q,c,e[q]);t("pc",c,e);q=f("id",c)||a.ue.id;var b=a.ue.url+"?"+d+"&v="+a.ue.v+"&id="+q,x=f("ctb",c)||f("wb",c),n=g.performance||g.webkitPerformance,k,l;x&&(b+="&ctb="+x);1<a.ueinit&&(b+="&ic="+a.ueinit);!a.ue._fi||"at"!=d||c&&c!=q||(b+=a.ue._fi());if(!("ld"!=d&&"ul"!=d||c&&c!=q)){if("ld"==d){try{g.onbeforeunload&&g.onbeforeunload.isUeh&&(g.onbeforeunload=null)}catch(w){}if(g.chrome)for(l=0;l<ue.ulh.length;l++)B("beforeunload",ue.ulh[l]);(l=document.ue_backdetect)&&l.ue_back&&l.ue_back.value++;a._uess&&
+(k=a._uess());a.ue.isl=1}ue._bf&&(b+="&bf="+ue._bf());a.ue_navtiming&&n&&n.timing&&(f("ctb",q,"1"),1==a.ue_navtiming&&t("tc",y,y,n.timing.navigationStart));n&&m(n);a.ue.t.hob=a.ue_hob;a.ue.t.hoe=a.ue_hoe;a.ue.ifr&&(b+="&ifr=1")}t(d,c,e);e="ld"==d&&c&&f("wb",c);var u;e||q==a.ue.oid||F((f("t",c)||{}).tc||+f("t0",c),+f("t0",c));a.ue_mbl&&a.ue_mbl.cnt&&!e&&(b+=a.ue_mbl.cnt());e?f("wb",c,2):"ld"==d&&(r.lid=v(q));for(u in a.ue.sc)if(1==f("wb",u))break;if(e){if(a.ue.s)return;b=h(b,null)}else l=h(b,null),
+l!=b&&(l=s(l),a.ue.b=l),k&&(b+=k),b=h(b,c||a.ue.id);b=s(b);if(a.ue.b||e)for(u in a.ue.sc)2==f("wb",u)&&delete a.ue.sc[u];k=0;ue._rt&&(b+="&rt="+ue._rt());e||(a.ue.s=0,(k=a.ue_err)&&0<k.ec&&k.pec<k.ec&&(k.pec=k.ec,b+="&ec="+k.ec+"&ecf="+k.ecf),k=f("ctb",c),f("t",c,{}));b&&a.ue.tag&&0<a.ue.tag().length&&(b+="&csmtags="+a.ue.tag().join("|"),a.ue.tag=a.ue.tagC());b&&a.ue.viz&&0<a.ue.viz.length&&(b+="&viz="+a.ue.viz.join("|"),a.ue.viz=[]);b&&!p(a.ue_pty)&&(b+="&pty="+a.ue_pty+"&spty="+a.ue_spty+"&pti="+
+a.ue_pti);b&&a.ue.tabid&&(b+="&tid="+a.ue.tabid);b&&a.ue.aftb&&(b+="&aftb=1");b&&a.ue.sbf&&(b+="&sbf=1");!a.ue._ui||c&&c!=q||(b+=a.ue._ui());a.ue.a=b;z(b,d,k,e)}}function s(a,c,e){e=e||g;e.addEventListener?e.addEventListener(a,c,!!window.ue_clf):e.attachEvent&&e.attachEvent("on"+a,c)}function B(a,c,e){e=e||g;e.removeEventListener?e.removeEventListener(a,c,!!window.ue_clf):e.detachEvent&&e.detachEvent("on"+a,c)}function C(){function d(){a.onUl()}function c(a){return function(){e[a]||(e[a]=1,A(a))}}
+var e=a.ue.r,f,p;a.onLd=c("ld");a.onLdEnd=c("ld");a.onUl=c("ul");f={stop:c("os")};g.chrome?(s("beforeunload",d),ue.ulh.push(d)):f[G]=a.onUl;for(p in f)f.hasOwnProperty(p)&&w(0,g,p,f[p]);a.ue_viz&&ue_viz();s("load",a.onLd);t("ue")}function F(d,c){a.ue_mbl&&a.ue_mbl.ajax&&a.ue_mbl.ajax(d,c);a.ue.tag("ajax-transition")}a.ueinit=(a.ueinit||0)+1;var r={t0:g.aPageStart||a.ue_t0,id:a.ue_id,url:a.ue_url,rid:a.ue_id,a:"",b:"",h:{},r:{ld:0,oe:0,ul:0},s:1,t:{},sc:{},iel:[],ielf:[],fc_idx:{},viz:[],v:"0.895.4",
+d:a.ue&&a.ue.d,log:a.ue&&a.ue.log,clog:a.ue&&a.ue.clog,onflush:a.ue&&a.ue.onflush,onunload:a.ue&&a.ue.onunload,stub:a.ue&&a.ue.stub,lr:a.ue&&a.ue.lr,exec:a.ue&&a.ue.exec,event:a.ue&&a.ue.event,onSushiUnload:a.ue&&a.ue.onSushiUnload,onSushiFlush:a.ue&&a.ue.onSushiFlush,ulh:[],cfa2:0},E=a.ue_fpf?1:0,G="beforeunload",y;r.oid=v(r.id);r.lid=v(r.id);a.ue=r;a.ue._t0=a.ue.t0;a.ue.tagC=function(){var a={};return function(c){c&&(a[c]=1);c=[];for(var e in a)a.hasOwnProperty(e)&&c.push(e);return c}};a.ue.tag=
+a.ue.tagC();a.ue.ifr=g.top!==g.self||g.frameElement?1:0;ue.attach=s;ue.detach=B;ue.reset=function(d,c){d&&(a.ue_cel&&a.ue_cel.reset(),a.ue.t0=+new Date,a.ue.rid=d,a.ue.id=d,a.ue.fc_idx={},a.ue.viz=[])};a.uei=C;a.ueh=w;a.ues=f;a.uet=t;a.uex=A;C()})(ue_csm,window);
+
+
+
+(function(b){var a=b.ue;a.cv={};a.cv.scopes={};a.count=function(c,b,d){var e={},f=a.cv;e.counter=c;e.value=b;e.t=a.d();d&&d.scope&&(f=a.cv.scopes[d.scope]=a.cv.scopes[d.scope]||{},e.scope=d.scope);if(void 0===b)return f[c];f[c]=b;c=0;d&&d.bf&&(c=1);a.clog&&0===c?a.clog(e,"csmcount",{bf:c}):a.log&&a.log(e,"csmcount",{c:1,bf:c})};a.count("baselineCounter2",1);a&&a.event&&(a.event({requestId:b.ue_id||"rid",server:b.ue_sn||"sn",obfuscatedMarketplaceId:b.ue_mid||"mid"},"csm","csm.CSMBaselineEvent.4"),
+a.count("nexusBaselineCounter",1,{bf:1}))})(ue_csm);
+
+var ue_hoe=+new Date();
+</script>
+<!-- ixt4tpfq5ibcj6ja7puomogkayn0dyubtfdn1ottdhszfofycz3rogjynf973jbzxazfetx0ouzv7zcxdidanvo17fjpah6xdw0bm43r3iyr6kit8sg7lnvuyix9og5bx526 -->
+
+
+<style type="text/css">
+
+.displayAddressDiv .displayAddressUL {
+  list-style-type: none;
+  padding: 0%;
+  margin-left: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: left;
+  vertical-align: top;
+}
+
+.displayAddressDiv .displayAddressLI {
+ width: 100%;
+}
+
+.displayAddressDiv {
+  vertical-align: top;
+  padding-bottom: 0.5em;
+}
+
+.displayAddressDiv h2 {
+  font-size: 1em;
+  display: inline;
+}
+
+#chooseAddressDiv table {
+  width: 100%;
+}
+
+#chooseAddressDiv td {
+  vertical-align: top;
+}
+
+.enterAddressFieldLabel {
+  text-align: right;
+}
+
+.enterAddressFieldICAMLabel {
+  vertical-align: middle;
+  max-width: 200px;
+}
+
+.enterAddressFieldICAMLong {
+  width: 386px;
+}
+
+.enterAddressFieldICAMShort {
+  width: 200px;
+}
+
+.enterAddressFormTable td {
+    padding: 2px;
+}
+
+#enterAddressFormDiv input {
+  text-align: left;
+}
+
+#enterAddressFormDiv select {
+  text-align: left;
+  overflow: auto;
+}
+
+div#enterAddressFormDiv {
+  text-align: left;
+}
+
+.enterAddressFieldError {
+  display: block;
+  text-align: left;
+  font-size: .8em;
+  color: red;
+  clear: both;
+}
+
+.enterAddressFieldWarning {
+  display: block;
+  text-align: left;
+  font-size: .8em;
+  color: #e77600;
+  clear: both;
+}
+
+#enterAddressFormDiv .enterAddressFieldSeparatorDiv {
+  clear: both;
+}
+
+.enterAddressFormInputError {
+  border: 1px solid #990000;
+}
+
+#chooseAddressDiv .chooseAddressEditThisAddressButton {
+  margin : 0em .5em;
+}
+
+#chooseAddressDiv .chooseAddressDeleteThisAddressButton {
+  margin : 0em .5em;
+}
+
+#chooseAddressDiv .chooseAddressChooseThisAddressRadioButton {
+  vertical-align: -4em;
+}
+
+#chooseAddressDiv .chooseAddressChooseThisAddressRadioButtonDiv {
+  float : left;
+  height: 100%;
+}
+
+#chooseAddressDiv td {
+ width: 33%;
+}
+
+#chooseAddressDiv .chooseAddressSeparator {
+  margin-top : 1em;
+}
+
+#deleteAddressDiv {
+  color: #a00000;
+  padding-left: 3em;
+}
+
+.enterDeliveryPrefsLabel {
+  text-align: right;
+  vertical-align: middle;
+}
+
+#deliveryPreferences {
+ color: #E47911; 
+ text-decoration: none;
+}
+
+#learnMoreLink a {
+ color: #004B91;
+ text-decoration: none;
+}
+
+#learnMoreLink a:hover, #learnMoreLink a:active, #learnMoreLink a:hover span, #learnMoreLink a:active span {
+ color: #E47911;
+ text-decoration: underline;
+}
+
+#whatsThisLink a {
+ color: #004B91;
+ text-decoration: none;
+}
+
+#whatsThisLink a:hover, #whatsThisLink a:active, #whatsThisLink a:hover span, #whatsThisLink a:active span {
+ color: #E47911;
+ text-decoration: underline;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="https://images-na.ssl-images-amazon.com/images/G/01/nav2/gamma/websiteGlobalCSS/websiteGlobalCSS-websiteGlobal-10346._V1_.css" type="text/css" rel="stylesheet">
+<style type="text/css"><!--
+
+.sans, .small, .h1, .h3color, .big, .tiny, .tinyprice, .highlight, .eyebrow,
+    a:active, a:visited, a:link, div.unified_widget p.seeMore,
+    div.unified_widget .carat, div.left_nav .carat, div.left_nav, div.left_nav
+    h2, div.left_nav h3, div.left_nav a:link, div.left_nav a:visited,
+    .popover-tiny, .horizontal-search, .horizontal-websearch, .topnav,
+    .topnav-active a:link, .tabon a, .tabon a:visited, .taboff a, .taboff
+    a:visited div.leftnav_popover h2, .signInMsg{
+  font-family: verdana,arial,helvetica,sans-serif;
+}
+.listprice {
+  font-family: arial,verdana,helvetica,sans-serif;
+}
+.price {
+  font-family: arial,verdana,helvetica,sans-serif;
+}
+.serif, .sans, .h1, div.unified_widget .headline{
+  font-size: medium;
+}
+.big {
+  font-size: xx-large;
+}
+.small, .h3color, .highlight, .horizontal-search {
+  font-size: small;
+}
+.signInMsg {
+  font-size: x-small;
+}
+.tiny, .tinyprice, .popover-tiny, .horizontal-websearch {
+  font-size: x-small;
+}
+body, td, th {
+  font-family: verdana,arial,helvetica,sans-serif;
+  font-size: small;
+}
+.eyebrowBackGroundColor {
+  background-color: ;
+}
+div.left_nav, div.left_nav a:link, div.left_nav a:visited {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  color: #000000;
+  margin-top: 0px;
+}
+--></style> 
+
+
+
+  <title>Amazon.com - Order 112-8422265-0838636</title>
+
+<script type="text/javascript">
+(function(e,c){function h(b,a){f.push([b,a])}function g(b,a){if(b){var c=e.head||e.getElementsByTagName("head")[0]||e.documentElement,d=e.createElement("script");d.async="async";d.src=b;d.setAttribute("crossorigin","anonymous");a&&a.onerror&&(d.onerror=a.onerror);a&&a.onload&&(d.onload=a.onload);c.insertBefore(d,c.firstChild)}}function k(){ue.uels=g;for(var b=0;b<f.length;b++){var a=f[b];g(a[0],a[1])}ue.deffered=1}var f=[];c.ue&&(ue.uels=h,c.ue.attach&&c.ue.attach("load",k))})(document,window);
+
+if (window.ue && window.ue.uels) {
+    ue.uels("https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/ClientSideMetricsAUIJavascript-bd84e873cef249017676691c4d161b6db4892d5e._V2_.js");
+}
+(function(l,d){function c(b){b="";var c=a.isBFT?"b":"s",d=""+a.oid,f=""+a.lid,g=d;d!=f&&20==f.length&&(c+="a",g+="-"+f);a.tabid&&(b=a.tabid+"+");b+=c+"-"+g;b!=e&&100>b.length&&(e=b,document.cookie="csm-hit="+b+("|"+ +new Date)+m+"; path=/")}function n(){e=0}function h(b){!0===d[a.pageViz.propHid]?e=0:!1===d[a.pageViz.propHid]&&c({type:"visible"})}var m="; expires="+(new Date(+new Date+6048E5)).toGMTString(),e,a=l.ue||{},k=a.pageViz&&a.pageViz.event&&a.pageViz.propHid;a.attach&&(a.attach("click",c),
+a.attach("keyup",c),k||(a.attach("focus",c),a.attach("blur",n)),k&&(a.attach(a.pageViz.event,h,d),h({})));a.aftb=1})(ue_csm,document);
+
+(function(k,d,h){function f(a,c,b){a&&a.indexOf&&0===a.indexOf("http")&&0!==a.indexOf("https")&&l(s,c,a,b)}function g(a,c,b){a&&a.indexOf&&(location.href.split("#")[0]!=a&&null!==a&&"undefined"!==typeof a||l(t,c,a,b))}function l(a,c,b,e){m[b]||(e=u&&e?n(e):"N/A",d.ueLogError&&d.ueLogError({message:a+c+" : "+b,logLevel:v,stack:"N/A"},{attribution:e}),m[b]=1,p++)}function e(a,c){if(a&&c)for(var b=0;b<a.length;b++)try{c(a[b])}catch(d){}}function q(){return d.performance&&d.performance.getEntriesByType?
+d.performance.getEntriesByType("resource"):[]}function n(a){if(a.id)return"//*[@id='"+a.id+"']";var c;c=1;var b;for(b=a.previousSibling;b;b=b.previousSibling)b.nodeName==a.nodeName&&(c+=1);b=a.nodeName;1!=c&&(b+="["+c+"]");a.parentNode&&(b=n(a.parentNode)+"/"+b);return b}function w(){var a=h.images;a&&a.length&&e(a,function(a){var b=a.getAttribute("src");f(b,"img",a);g(b,"img",a)})}function x(){var a=h.scripts;a&&a.length&&e(a,function(a){var b=a.getAttribute("src");f(b,"script",a);g(b,"script",a)})}
+function y(){var a=h.styleSheets;a&&a.length&&e(a,function(a){if(a=a.ownerNode){var b=a.getAttribute("href");f(b,"style",a);g(b,"style",a)}})}function z(){if(A){var a=q();e(a,function(a){f(a.name,a.initiatorType)})}}function B(){e(q(),function(a){g(a.name,a.initiatorType)})}function r(){var a;a=d.location&&d.location.protocol?d.location.protocol:void 0;"https:"==a&&(z(),w(),x(),y(),B(),p<C&&setTimeout(r,D))}var s="[CSM] Insecure content detected ",t="[CSM] Ajax request to same page detected ",v="WARN",
+m={},p=0,D=k.ue_nsip||1E3,C=5,A=1==k.ue_urt,u=!0;ue_csm.ue_disableNonSecure||(d.performance&&d.performance.setResourceTimingBufferSize&&d.performance.setResourceTimingBufferSize(300),r())})(ue_csm,window,document);
+
+(function(a){var b=a.alert;window.alert=function(){a.ueLogError&&a.ueLogError({message:"[CSM] Alert invocation detected with argument: "+arguments[0],logLevel:"WARN"});Function.prototype.apply.apply(b,[a,arguments||[]])}})(window);
+
+(function(k,l,g){function m(a){c||(c=b[a.type].id,"undefined"===typeof a.clientX?(e=a.pageX,f=a.pageY):(e=a.clientX,f=a.clientY),2!=c||h&&(h!=e||n!=f)?(r(),d.isl&&l.setTimeout(function(){p("at",d.id)},0)):(h=e,n=f,c=0))}function r(){for(var a in b)b.hasOwnProperty(a)&&d.detach(a,m,b[a].parent)}function s(){for(var a in b)b.hasOwnProperty(a)&&d.attach(a,m,b[a].parent)}function t(){var a="";!q&&c&&(q=1,a+="&ui="+c);return a}var d=k.ue,p=k.uex,q=0,c=0,h,n,e,f,b={click:{id:1,parent:g},mousemove:{id:2,
+parent:g},scroll:{id:3,parent:l},keydown:{id:4,parent:g}};d&&p&&(s(),d._ui=t)})(ue_csm,window,document);
+
+ue_csm.ue.stub(ue,"impression");
+
+</script>
+</head>
+<body>
+
+  
+  
+
+
+
+
+<img src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/amazon-logo-tiny._CB192256679_.gif" width="113" align="left" height="23" border="0">
+
+<br>
+
+  
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+     
+
+
+
+
+
+
+
+
+        
+        
+    
+    
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                             
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+      
+        
+   
+      
+        
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                             
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        
+   
+      
+        
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                             
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        
+   
+      
+        
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+        
+
+  
+
+
+
+
+
+
+
+
+
+        
+
+
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+<br clear="\&quot;all\&quot;">
+  <center><b class="h1">
+            Final Details for Order #112-8422265-0838636
+  </b><br>
+
+    <script>
+        //works if JS is enabled
+        document.write("<a href='#' onclick='javascript:window.print();'>Print this page for your records.</a>");
+    </script><a href="#" onclick="javascript:window.print();">Print this page for your records.</a>
+</center><br>
+
+<table width="90%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center">
+  <tbody><tr>
+    <td>
+
+
+
+
+
+
+      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+
+
+
+
+        <tbody><tr><td valign="top" align="left">
+          <b>
+                Order Placed:
+          </b>
+          July 7, 2017
+        </td></tr>
+
+        <tr><td valign="top" align="left">
+          <b>Amazon.com order number:</b>
+          112-8422265-0838636
+        </td></tr>
+
+
+        <tr><td valign="top" align="left">
+          <b>Order Total:
+          $300.12</b>
+        </td></tr>
+
+
+      </tbody></table>
+      <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" align="center">
+  <tbody><tr bgcolor="#000000">
+    <td>
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" align="center" bgcolor="#000000">
+        <tbody><tr bgcolor="#ffffff">
+          <td valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr bgcolor="#ffffff">
+                <td>
+                  <b class="sans"><center>
+                  Shipped on July 9, 2017
+
+
+                  </center></b>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr valign="top">
+                <td width="100%">
+                  <table border="0" cellspacing="0" cellpadding="2" align="right">
+                    <tbody><tr valign="top">
+                      <td align="right">
+                        &nbsp;
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  <table border="0" cellspacing="2" cellpadding="0" width="100%">
+                    <tbody><tr valign="top">
+                      <td valign="top">
+                        <b>Items Ordered</b>
+                      </td>
+                      <td align="right" valign="top">
+                        <b>Price</b>
+                      </td>
+                    </tr>
+                    
+
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqknttony" value="25">
+  <td colspan="1" valign="top">
+    
+    25
+  
+    of:
+
+    <i>Quartet Cork Tiles, 12" x 12", Cork Board, Bulletin Board, Mini Wall, 4 Pack (102)</i><br>
+
+
+    <span class="tiny">
+        Sold by: Amazon.com LLC
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+<br>
+      
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $5.88<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+                  </tbody></table>
+                  <br>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr>
+                <td>
+                  
+
+<b>
+Shipping Address:
+</b>
+
+
+
+<br>
+
+
+
+<div class="displayAddressDiv">
+<ul class="displayAddressUL">
+<li class="displayAddressLI displayAddressFullName">Marissa Q. Paine</li>
+<li class="displayAddressLI displayAddressAddressLine1">C/O RISE COLLABORATIVE WORKSPACE</li>
+<li class="displayAddressLI displayAddressAddressLine2">8820 LADUE RD STE 203</li>
+<li class="displayAddressLI displayAddressCityStateOrRegionPostalCode">SAINT LOUIS, MO 63124-2080</li>
+<li class="displayAddressLI displayAddressCountryName">United States</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+
+
+<br><b>
+Shipping Speed:
+</b>
+
+
+
+<br>
+Two-Day Shipping
+<br>
+
+
+
+
+
+                    
+
+
+
+                </td>
+                <td align="right">
+                  <table border="0" cellpadding="0" cellspacing="1">
+    
+    <tbody><tr valign="top">
+        <td nowrap="nowrap" align="right">Item(s) Subtotal: </td>
+        <td nowrap="nowrap" align="right">$147.00</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Shipping &amp; Handling:</td>
+        <td nowrap="nowrap" align="right">$39.78</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Free Shipping:</td>
+        <td nowrap="nowrap" align="right">-$39.78</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Total before tax:</td>
+        <td nowrap="nowrap" align="right">$147.00</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Sales Tax:</td>
+        <td nowrap="nowrap" align="right">$6.25</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right"><b>Total for This Shipment:</b></td>
+        <td nowrap="nowrap" align="right"><b>$153.25</b></td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+</tbody></table>
+
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<br>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" align="center">
+  <tbody><tr bgcolor="#000000">
+    <td>
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" align="center" bgcolor="#000000">
+        <tbody><tr bgcolor="#ffffff">
+          <td valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr bgcolor="#ffffff">
+                <td>
+                  <b class="sans"><center>
+                  Shipped on July 9, 2017
+
+
+                  </center></b>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr valign="top">
+                <td width="100%">
+                  <table border="0" cellspacing="0" cellpadding="2" align="right">
+                    <tbody><tr valign="top">
+                      <td align="right">
+                        &nbsp;
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  <table border="0" cellspacing="2" cellpadding="0" width="100%">
+                    <tbody><tr valign="top">
+                      <td valign="top">
+                        <b>Items Ordered</b>
+                      </td>
+                      <td align="right" valign="top">
+                        <b>Price</b>
+                      </td>
+                    </tr>
+                    
+
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqkntquny" value="3">
+  <td colspan="1" valign="top">
+    
+    3
+  
+    of:
+
+    <i>Westcott LetterCraft  Stencil, 2-Inch Characters, Helvetica Font (SH2/15841)</i><br>
+
+
+    <span class="tiny">
+        Sold by: Amazon.com LLC (<a href="http://www.amazon.com/gp/help/seller/at-a-glance.html/ref=od_sold_by_link?ie=UTF8&amp;isAmazonFulfilled=1&amp;marketplaceSeller=1&amp;orderID=112-8422265-0838636&amp;seller=A2Q1LRYTXHYQ2K">seller profile</a>)
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+  
+  
+    
+    
+    
+    
+    
+    
+<br>
+      
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<span id="ub_badge_112-8422265-0838636" class="a-text-bold">Business Price</span>
+<br>
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $12.60<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqkntrsny" value="1">
+  <td colspan="1" valign="top">
+    
+    1
+  
+    of:
+
+    <i>ColorBok Smooth Cardstock Paper Pad, Primary, 12" x 12"</i><br>
+
+
+    <span class="tiny">
+        Sold by: Amazon.com LLC
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+<br>
+      
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $5.00<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqkntrwny" value="4">
+  <td colspan="1" valign="top">
+    
+    4
+  
+    of:
+
+    <i>Me &amp; My Big Ideas Pocket Pages Stickers 6 Sheets/Pkg-Love Yourself</i><br>
+
+
+    <span class="tiny">
+        Sold by: Amazon.com LLC
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+<br>
+      
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $5.56<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqkntsqny" value="1">
+  <td colspan="1" valign="top">
+    
+    1
+  
+    of:
+
+    <i>Washi Tape Set of 30 Rolls - All Girls Favorite, Great For Arts and Crafts, DIY, Scrapbook -Decorative, Creative, Re-positional, Multi-purpose, Masking tape.</i><br>
+
+
+    <span class="tiny">
+        Sold by: Omer Candy Girl (<a href="http://www.amazon.com/gp/help/seller/at-a-glance.html/ref=od_sold_by_link?ie=UTF8&amp;isAmazonFulfilled=1&amp;marketplaceSeller=1&amp;orderID=112-8422265-0838636&amp;seller=A3LCIQUTLVOGL9">seller profile</a>)
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+  
+  
+    
+    
+    
+    
+    
+    
+<br>
+      
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $11.99<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqkntsuny" value="1">
+  <td colspan="1" valign="top">
+    
+    1
+  
+    of:
+
+    <i>Unique Washi Masking Tape Set + Dispenser, Holder/Organizer for Storage. 16 Colored Designs. 23 FT/Roll. Craft Decorative Paper With Gold Effect. Improved Stickiness, Quality Foil Tapes</i><br>
+
+
+    <span class="tiny">
+        Sold by: Maachi Design (<a href="http://www.amazon.com/gp/help/seller/at-a-glance.html/ref=od_sold_by_link?ie=UTF8&amp;isAmazonFulfilled=1&amp;marketplaceSeller=1&amp;orderID=112-8422265-0838636&amp;seller=A1UV87YF513QLT">seller profile</a>)
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+  
+  
+    
+    
+    
+    
+    
+    
+<br>
+      
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $19.84<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqknttsny" value="1">
+  <td colspan="1" valign="top">
+    
+    1
+  
+    of:
+
+    <i>Huhuhero Fineliner Color Pen Set, 0.38 mm Fine Line Drawing Pen, Porous Fine Point Markers Perfect for Coloring Book and Bullet Journal Art Projects, Pack of 10</i><br>
+
+
+    <span class="tiny">
+        Sold by: huhuhero (<a href="http://www.amazon.com/gp/help/seller/at-a-glance.html/ref=od_sold_by_link?ie=UTF8&amp;isAmazonFulfilled=1&amp;marketplaceSeller=1&amp;orderID=112-8422265-0838636&amp;seller=A1PXA3EKQOR3JF">seller profile</a>)
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+  
+  
+    
+    
+    
+    
+    
+    
+<br>
+      
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<span id="ub_badge_112-8422265-0838636" class="a-text-bold">Business Price</span>
+<br>
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $5.98<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsnnlotsqny" value="1">
+  <td colspan="1" valign="top">
+    
+    1
+  
+    of:
+
+    <i>ColorBok 61241C Textured Cardstock Paper Pad Midnight Black, 12" x 12"</i><br>
+
+
+    <span class="tiny">
+        Sold by: Amazon.com LLC
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+<br>
+      
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $5.00<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+                  </tbody></table>
+                  <br>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr>
+                <td>
+                  
+
+<b>
+Shipping Address:
+</b>
+
+
+
+<br>
+
+
+
+<div class="displayAddressDiv">
+<ul class="displayAddressUL">
+<li class="displayAddressLI displayAddressFullName">Marissa Q. Paine</li>
+<li class="displayAddressLI displayAddressAddressLine1">C/O RISE COLLABORATIVE WORKSPACE</li>
+<li class="displayAddressLI displayAddressAddressLine2">8820 LADUE RD STE 203</li>
+<li class="displayAddressLI displayAddressCityStateOrRegionPostalCode">SAINT LOUIS, MO 63124-2080</li>
+<li class="displayAddressLI displayAddressCountryName">United States</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+
+
+<br><b>
+Shipping Speed:
+</b>
+
+
+
+<br>
+Two-Day Shipping
+<br>
+
+
+
+
+
+                    
+
+
+
+                </td>
+                <td align="right">
+                  <table border="0" cellpadding="0" cellspacing="1">
+    
+    <tbody><tr valign="top">
+        <td nowrap="nowrap" align="right">Item(s) Subtotal: </td>
+        <td nowrap="nowrap" align="right">$107.85</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Shipping &amp; Handling:</td>
+        <td nowrap="nowrap" align="right">$38.12</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Free Shipping:</td>
+        <td nowrap="nowrap" align="right">-$38.12</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Promotion applied:</td>
+        <td nowrap="nowrap" align="right">-$0.60</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Total before tax:</td>
+        <td nowrap="nowrap" align="right">$107.25</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Sales Tax:</td>
+        <td nowrap="nowrap" align="right">$2.93</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right"><b>Total for This Shipment:</b></td>
+        <td nowrap="nowrap" align="right"><b>$110.18</b></td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+</tbody></table>
+
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<br>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" align="center">
+  <tbody><tr bgcolor="#000000">
+    <td>
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" align="center" bgcolor="#000000">
+        <tbody><tr bgcolor="#ffffff">
+          <td valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr bgcolor="#ffffff">
+                <td>
+                  <b class="sans"><center>
+                  Shipped on July 7, 2017
+
+
+                  </center></b>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr valign="top">
+                <td width="100%">
+                  <table border="0" cellspacing="0" cellpadding="2" align="right">
+                    <tbody><tr valign="top">
+                      <td align="right">
+                        &nbsp;
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  <table border="0" cellspacing="2" cellpadding="0" width="100%">
+                    <tbody><tr valign="top">
+                      <td valign="top">
+                        <b>Items Ordered</b>
+                      </td>
+                      <td align="right" valign="top">
+                        <b>Price</b>
+                      </td>
+                    </tr>
+                    
+
+
+
+
+  <tr>
+  <input type="hidden" name="jlojmsmqkntrony" value="3">
+  <td colspan="1" valign="top">
+    
+    3
+  
+    of:
+
+    <i>Westcott LetterCraft  Stencil, 2-Inch Characters, Marker Font (SM2/15836)</i><br>
+
+
+    <span class="tiny">
+        Sold by: Amazon.com LLC
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+<br>
+      
+
+      <br>
+
+      Condition: New<br>
+
+
+    </span>
+    
+  </td>
+  <td align="right" valign="top" colspan="2">
+    
+    $11.73<br>
+     
+  </td></tr>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+                  </tbody></table>
+                  <br>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr>
+                <td>
+                  
+
+<b>
+Shipping Address:
+</b>
+
+
+
+<br>
+
+
+
+<div class="displayAddressDiv">
+<ul class="displayAddressUL">
+<li class="displayAddressLI displayAddressFullName">Marissa Q. Paine</li>
+<li class="displayAddressLI displayAddressAddressLine1">C/O RISE COLLABORATIVE WORKSPACE</li>
+<li class="displayAddressLI displayAddressAddressLine2">8820 LADUE RD STE 203</li>
+<li class="displayAddressLI displayAddressCityStateOrRegionPostalCode">SAINT LOUIS, MO 63124-2080</li>
+<li class="displayAddressLI displayAddressCountryName">United States</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+
+
+<br><b>
+Shipping Speed:
+</b>
+
+
+
+<br>
+Two-Day Shipping
+<br>
+
+
+
+
+
+                    
+
+
+
+                </td>
+                <td align="right">
+                  <table border="0" cellpadding="0" cellspacing="1">
+    
+    <tbody><tr valign="top">
+        <td nowrap="nowrap" align="right">Item(s) Subtotal: </td>
+        <td nowrap="nowrap" align="right">$35.19</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Shipping &amp; Handling:</td>
+        <td nowrap="nowrap" align="right">$30.27</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Free Shipping:</td>
+        <td nowrap="nowrap" align="right">-$30.27</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Total before tax:</td>
+        <td nowrap="nowrap" align="right">$35.19</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Sales Tax:</td>
+        <td nowrap="nowrap" align="right">$1.50</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right"><b>Total for This Shipment:</b></td>
+        <td nowrap="nowrap" align="right"><b>$36.69</b></td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+</tbody></table>
+
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<br>
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" align="center">
+  <tbody><tr bgcolor="#000000">
+    <td>
+      <table width="100%" border="0" cellspacing="3" cellpadding="0" align="center" bgcolor="#000000">
+        <tbody><tr bgcolor="#ffffff">
+          <td valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr bgcolor="#ffffff">
+                <td>
+                  <b class="sans"><center>Payment information</center></b>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr valign="top">
+                <td width="100%">
+                  <table border="0" cellspacing="0" cellpadding="2" align="right">
+                    <tbody><tr valign="top">
+                      <td align="right">
+                        <table border="0" cellpadding="0" cellspacing="1">
+    
+    <tbody><tr valign="top">
+        <td nowrap="nowrap" align="right">Item(s) Subtotal: </td>
+        <td nowrap="nowrap" align="right">$290.04</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Shipping &amp; Handling:</td>
+        <td nowrap="nowrap" align="right">$108.17</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Free Shipping:</td>
+        <td nowrap="nowrap" align="right">-$108.17</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Promotion applied:</td>
+        <td nowrap="nowrap" align="right">-$0.60</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Total before tax:</td>
+        <td nowrap="nowrap" align="right">$289.44</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">Estimated tax to be collected:</td>
+        <td nowrap="nowrap" align="right">$10.68</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right">&nbsp;</td>
+        <td nowrap="nowrap" align="right">-----</td>
+    </tr> 
+    
+    <tr valign="top">
+        <td nowrap="nowrap" align="right"><b>Grand Total:</b></td>
+        <td nowrap="nowrap" align="right"><b>$300.12</b></td>
+    </tr> 
+</tbody></table>
+
+                      </td>
+                    </tr>
+                  </tbody></table>
+
+                  
+
+
+<b>Payment Method: </b>
+
+
+<br>
+
+
+    Debit Card
+    <nobr> | Last digits:  3935</nobr>
+  <br> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+                  
+
+<br>
+<b>Billing address</b>
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+<div class="displayAddressDiv">
+<ul class="displayAddressUL">
+<li class="displayAddressLI displayAddressFullName">Marissa Paine</li>
+<li class="displayAddressLI displayAddressAddressLine1">105 HUNTINGTON PARK</li>
+<li class="displayAddressLI displayAddressCityStateOrRegionPostalCode">SAINT CHARLES, MO 63301-8724</li>
+<li class="displayAddressLI displayAddressCountryName">United States</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+                  
+
+
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <tr>
+          <td bgcolor="#ffffff" valign="top" colspan="2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tbody><tr>
+                <td valign="top">
+                  <div style="text-align:left;"><b>Credit Card transactions&nbsp;</b></div>
+                </td>
+                <td align="right">
+                  
+
+
+<table border="0" cellpadding="0" cellspacing="1">
+
+
+  
+  <tbody><tr valign="top">
+    <td nowrap="nowrap" align="right">
+      MasterCard ending in 3935:&nbsp;July 9, 2017:
+    </td>
+    <td nowrap="nowrap" align="right" colspan="2">
+      $153.25
+    </td>
+  </tr>
+  <tr valign="top">
+    <td nowrap="nowrap" align="right">
+      MasterCard ending in 3935:&nbsp;July 9, 2017:
+    </td>
+    <td nowrap="nowrap" align="right" colspan="2">
+      $110.18
+    </td>
+  </tr>
+  <tr valign="top">
+    <td nowrap="nowrap" align="right">
+      MasterCard ending in 3935:&nbsp;July 9, 2017:
+    </td>
+    <td nowrap="nowrap" align="right" colspan="2">
+      $36.69
+    </td>
+  </tr>
+</tbody></table>
+
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+    </td>
+  </tr>
+</tbody></table>
+
+<center>
+  <p>To view the status of your order, return to <a href="/gp/css/summary/edit.html?ie=UTF8&amp;orderID=112-8422265-0838636">Order Summary</a>.</p>
+
+</center>
+
+
+<script>   if (typeof uet == 'function') { uet('cf'); } </script> 
+<br>
+
+
+<center class="tiny">
+
+<a href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088" rel="nofollow">Conditions of Use</a>
+|
+<a href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496" rel="nofollow">Privacy Notice</a>
+¬© 1996-2017, Amazon.com, Inc. or its affiliates
+</center>
+
+
+<!-- whfh-5NWnH9YpvQUKDu0gV3oRIE2KY5+ykLzmUF5l/hd0LD2Kt8TZKqciPYmXjtuqSjlc rid-2AERSYJE4PYQF71QQ91D -->
+
+
+<script type="text/javascript">
+    
+    window.ue_csm.cel_widgets = [
+         {  c: "celwidget"  } , {  id: "fallbacksessionShvl"  } , {  id: "rhf"  } 
+    ];
+
+
+
+
+
+
+</script>
+
+<div id="be" style="display:none;visibility:hidden;"><form name="ue_backdetect"><input name="ue_back" value="2" type="hidden"></form><script type="text/javascript">
+(function(a){var b=document.ue_backdetect;b&&b.ue_back&&a.ue&&(a.ue.bfini=b.ue_back.value);a.uet&&a.uet("be");a.onLdEnd&&(window.addEventListener?window.addEventListener("load",a.onLdEnd,!1):window.attachEvent&&window.attachEvent("onload",a.onLdEnd));a.ueh&&a.ueh(0,window,"load",a.onLd,1);a.ue&&a.ue.tag&&(a.ue_furl&&a.ue_furl.split?(b=a.ue_furl.split("."))&&b[0]&&a.ue.tag(b[0]):a.ue.tag("nofls"))})(ue_csm);
+
+
+var ue_pty='RCXYourAccount', ue_spty='DisplayInvoiceStatus', ue_pti='';
+
+</script>
+
+<a href="/gp/css/summary/print.html/ref=oh_aui_pi_o01_/uedata/nvp/unsticky/131-7923093-8222458/YourAccount/ntpoffrw?tepes=1&amp;id=2AERSYJE4PYQF71QQ91D">v</a>
+
+</div>
+<script type="text/javascript">
+(function(g,h){function d(a,d){var b={};if(!e||!f)try{var c=h.sessionStorage;c?a&&("undefined"!==typeof d?c.setItem(a,d):b.val=c.getItem(a)):f=1}catch(g){e=1}e&&(b.e=1);return b}var b=g.ue||{},a="",f,e,c,a=d("csmtid");f?a="NA":a.e?a="ET":(a=a.val,a||(a=b.oid||"NI",d("csmtid",a)),c=d(b.oid),c.e||(c.val=c.val||0,d(b.oid,c.val+1)),b.ssw=d);b.tabid=a})(ue_csm,window);
+
+</script>
+<script type="text/javascript">
+(function(b,c){var a=c.images;a&&a.length&&b.ue.count("totalImages",a.length)})(ue_csm,document);
+
+</script>
+<script type="text/javascript">
+(function(k,h){function J(a){if(a)return a.replace(/^\s+|\s+$/g,"")}function z(a,d){if(!a)return{};var c="INFO"===d.logLevel;a.m&&a.m[l]&&(a=a.m);var b=d.m||d[l]||"",b=a.m&&a.m[l]?b+a.m[l]:a.m&&a.m.target&&a.m.target.tagName?b+("Error handler invoked by "+a.m.target.tagName+" tag"):a.m?b+a.m:a[l]?b+a[l]:b+"Unknown error",b={m:b,name:a.name,type:a.type,csm:K+" "+(a.fromOnError?"onerror":"ueLogError")},f,g,e=0;f=0;var m;g=h.location;b[n]=d[n]||u;d.adb&&(b.adb=d.adb);(f=d[q])&&(b[q]=""+f);if(!c){b[A]=
+d[A]||g&&g.href||"missing";b.f=a.f||a.sourceURL||a.fileName||a.filename||a.m&&a.m.target&&a.m.target.src;b.l=a.l||a.line||a.lineno||a.lineNumber;b.c=a.c?""+a.c:a.c;b.s=[];b.t=k.ue.d();if((c=a.stack||(a.err?a.err.stack:""))&&c.split)for(b.csm+=" stack",f=c.split("\n");e<f.length&&b.s.length<B;)(c=f[e++])&&b.s.push(J(c));else for(b.csm+=" callee",g=C(a.args||arguments,"callee"),f=e=0;g&&e<B;)m=x,g[s]||(c=g.toString())&&c.substr&&(m=0===f?4*x:m,m=1==f?2*x:m,b.s.push(c.substr(0,m)),f++),g=C(g,"caller"),
+e++;!b.f&&0<b.s.length&&(e=b,c=(e||{}).s||[],f=c[1]||"",c=(c[0]||"").match(L)||f.match(M))&&(e.f=c[1],e.l=c[2])}return b}function C(a,d){try{return a[d]}catch(c){}}function D(a,d){if(a&&!(p.ec>p.mxe)){p.ter.push(a);d=d||{};var c=a[n]||d[n];d[n]=c;d[q]=a[q]||d[q];c&&c!==u&&c!==N&&c!==O&&c!==P||k.ue_err.ec++;c&&c!=u||p.ecf++;y(a,d)}}function y(a,d){if(a){var c=z(a,d),b=d.channel||Q;if(ue.log.isStub&&h[v]&&h[v][w]){var f={};f[b]=c;try{var g=h[v][w]({rid:ue.rid,sid:k.ue_sid,mid:k.ue_mid,sn:k.ue_sn,reqs:[f]}),
+e=h[R],m;if(m=!(e[E]&&e[E](F,g))){var l;if(h[G]){var r=new h[G];r.onerror=t;r.ontimeout=t;r.onprogress=t;r.onload=t;r.timeout=0;l=r}else{var n;if(h[H]){var q=new h[H];n="withCredentials"in q?q:void 0}else n=void 0;l=n}m=l}if(b=m){b.open("POST",F,!0);if(b[I])b[I]("Content-type","text/plain");b.send(g)}}catch(s){}}else k.ue.log(c,b,{nb:1});"function"===typeof p.elh&&p.elh(a,d);if(!a.fromOnError){g=h.console||{};b=g.error||g.log||t;f=h[v];e="Error logged with the Track&Report JS errors API(http://tiny/1covqr6l8/wamazindeClieUserJava): ";
+if(f&&f[w])try{e+=f[w](c)}catch(u){e+="no info provided; converting to string failed"}else e+=c.m;b.apply(g,[e,c])}}}var H="XMLHttpRequest",G="XDomainRequest",R="navigator",E="sendBeacon",w="stringify",v="JSON",n="logLevel",q="attribution",A="pageURL",s="skipTrace",I="setRequestHeader",l="message",t=function(){},F="//"+k.ue_furl+"/1/batch/1/OE/",p=k.ue_err,Q=k.ue_err_chan||"jserr",u="FATAL",N="ERROR",O="WARN",P="DOWNGRADED",K="v6",B=20,x=256,M=RegExp(" (?([^ s]*):( d+): d+ )?".split(" ").join(String.fromCharCode(92))),
+L=/.*@(.*):(\d*)/;z[s]=1;D[s]=1;y[s]=1;(function(){for(var a,d=0;d<(p.erl||[]).length;d++)a=p.erl[d],y(a.ex,a.info);p.erl=[]})();k.ueLogError=D})(ue_csm,window);
+
+</script>
+<script type="text/javascript">
+(function(c,d){var b=c.ue,a=d.navigator;b&&b.tag&&a&&(a=a.connection||a.mozConnection||a.webkitConnection)&&a.type&&b.tag("netInfo:"+a.type)})(ue_csm,window);
+
+</script>
+<script type="text/javascript">
+(function(c,d){function h(a,b){for(var c=[],d=0;d<a.length;d++){var e=a[d],f=b.encode(e);if(e[k]){var g=b.metaSep,e=e[k],l=b.metaPairSep,h=[],m=void 0;for(m in e)e.hasOwnProperty(m)&&h.push(m+"="+e[m]);e=h.join(l);f+=g+e}c.push(f)}return c.join(b.resourceSep)}function s(a){var b=a[k]=a[k]||{};b[t]||(b[t]=c.ue_mid);b[u]||(b[u]=c.ue_sid);b[f]||(b[f]=c.ue_id);b.csm=1;a="//"+c.ue_furl+"/1/"+a[v]+"/1/OP/"+a[w]+"/"+a[x]+"/"+h([a],y);if(n)try{n.call(d[p],a)}catch(g){c.ue.sbf=1,(new Image).src=a}else(new Image).src=
+a}function q(){g&&g.isStub&&g.replay(function(a,b,c){a=a[0];b=a[k]=a[k]||{};b[f]=b[f]||c;s(a)});l.impression=s;g=null}if(!(1<c.ueinit)){var k="metadata",x="impressionType",v="foresterChannel",w="programGroup",t="marketplaceId",u="session",f="requestId",p="navigator",l=c.ue||{},n=d[p]&&d[p].sendBeacon,r=function(a,b,c,d){return{encode:d,resourceSep:a,metaSep:b,metaPairSep:c}},y=r("","?","&",function(a){return h(a.impressionData,z)}),z=r("/",":",",",function(a){return a.featureName+":"+h(a.resources,
+A)}),A=r(",","@","|",function(a){return a.id}),g=l.impression;n?q():(l.attach("load",q),l.attach("beforeunload",q));d.P&&d.P.register&&d.P.register("impression-client",function(){})}})(ue_csm,window);
+
+</script>
+<script type="text/javascript">
+ue_csm.ue.exec(function(e,d,a){function b(a,b){return{name:a,getFeatureValue:function(){return void 0!==b|0}}}function h(a,b,c){return{name:a,getFeatureValue:function(){return b===c|0}}}function g(a,b){return{name:a,getFeatureValue:function(){for(var a=0;a<b.length;a++)if(void 0!==b[a])return 1;return 0}}}var f=e.ue||{},c=[b("dall",d.all),b("dcm",d.compatMode),b("xhr",a.XMLHttpRequest),b("qs",d.querySelector),b("ael",d.addEventListener),b("atob",a.atob),g("pjs",[a.callPhantom,a._phantom,a.PhantomEmitter,
+a.__phantomas]),b("njs",a.Buffer),b("cjs",a.emit),b("rhn",a.spawn),b("sel",a.webdriver),g("chrm",[a.domAutomation,a.domAutomationController]),{name:"plg",getFeatureValue:function(){return(void 0!==a.navigator.plugins&&0<a.navigator.plugins.length)|0}}];try{c.push(h("no",a.navigator.onLine,!1))}catch(k){c.push({name:"no",getFeatureValue:function(){return 2}})}f._bf=e.ue.exec(function(){for(var a="",b=0;b<c.length;b++)a+=c[b].name+"_"+c[b].getFeatureValue()+"-";(e.ue||{})._bf=null;return a},"ue.bf");
+f._bf.modules=c;f._bf.mpm=b},"bf")(ue_csm,document,window);
+
+</script>
+<!--[if IE 5]>
+<script type='text/javascript'> ue && ue._bf && ue._bf.modules && ue._bf.mpm && ue._bf.modules.push( ue._bf.mpm("cc_ie5", 1) ) </script>
+<![endif]-->
+<!--[if IE 6]>
+<script type='text/javascript'> ue && ue._bf && ue._bf.modules && ue._bf.mpm && ue._bf.modules.push( ue._bf.mpm("cc_ie6", 1) ) </script>
+<![endif]-->
+<!--[if IE 7]>
+<script type='text/javascript'> ue && ue._bf && ue._bf.modules && ue._bf.mpm && ue._bf.modules.push( ue._bf.mpm("cc_ie7", 1) ) </script>
+<![endif]-->
+<!--[if IE 8]>
+<script type='text/javascript'> ue && ue._bf && ue._bf.modules && ue._bf.mpm && ue._bf.modules.push( ue._bf.mpm("cc_ie8", 1) ) </script>
+<![endif]-->
+<!--[if IE 9]>
+<script type='text/javascript'> ue && ue._bf && ue._bf.modules && ue._bf.mpm && ue._bf.modules.push( ue._bf.mpm("cc_ie9", 1) ) </script>
+<![endif]-->
+<script type="text/javascript">
+ue_csm.ue.exec(function(e,f){var a=e.ue||{},b=a._wlo,d;if(a.ssw){d=a.ssw("CSM_previousURL").val;var c=f.location,b=b?b:c&&c.href?c.href.split("#")[0]:void 0;c=(b||"")===a.ssw("CSM_previousURL").val;!c&&b&&a.ssw("CSM_previousURL",b);d=c?"reload":d?"intrapage-transition":"first-view"}else d="unknown";a._nt=d},"NavTypeModule")(ue_csm,window);
+
+</script>
+<script type="text/javascript">
+var ue_mbl=ue_csm.ue.exec(function(e,a){function k(f){b=f||{};a.AMZNPerformance=b;b.transition=b.transition||{};b.timing=b.timing||{};e.ue.exec(l,"csm-android-check")()&&b.tags instanceof Array&&(f=-1!=b.tags.indexOf("usesAppStartTime")||b.transition.type?!b.transition.type&&-1<b.tags.indexOf("usesAppStartTime")?"warm-start":void 0:"view-transition",f&&(b.transition.type=f));"reload"===d._nt&&e.ue_orct||"intrapage-transition"===d._nt?a.performance&&performance.timing&&performance.timing.navigationStart?
+b.timing.transitionStart=a.performance.timing.navigationStart:delete b.timing.transitionStart:"undefined"===typeof d._nt&&a.performance&&performance.timing&&performance.timing.navigationStart&&a.history&&"function"===typeof a.History&&"object"===typeof a.history&&history.length&&1!=history.length&&(b.timing.transitionStart=a.performance.timing.navigationStart);f=b.transition;var c;c=d._nt?d._nt:void 0;f.subType=c;a.ue&&a.ue.tag&&a.ue.tag("has-AMZNPerformance");d.isl&&a.uex&&uex("at","csm-timing");
+m()}function n(b){a.ue&&a.ue.count&&a.ue.count("csm-cordova-plugin-failed",1)}function l(){return a.webclient&&"function"===typeof a.webclient.getRealClickTime?a.cordova&&a.cordova.platformId&&"ios"==a.cordova.platformId?!1:!0:!1}function m(){try{P.register("AMZNPerformance",function(){return b})}catch(a){}}function g(){if(!b)return"";ue_mbl.cnt=null;var a=b.transition,c;c=b.timing.transitionStart;c="undefined"!==typeof c&&"undefined"!==typeof h?c-h:void 0;a=["mts",c,"mtt",a.type,"mtst",a.subType,
+"mtlt",a.launchType];c="";for(var d=0;d<a.length;d+=2){var e=a[d],g=a[d+1];"undefined"!==typeof g&&(c+="&"+e+"="+g)}return c}function p(a,c){b&&(h=c,b.timing.transitionStart=a,b.transition.type="view-transition",b.transition.subType="ajax-transition",b.transition.launchType="normal",ue_mbl.cnt=g)}var d=e.ue||{},h=e.ue_t0,b;if(a.P&&a.P.when&&a.P.register)return a.P.when("CSMPlugin").execute(function(a){a.buildAMZNPerformance&&a.buildAMZNPerformance({successCallback:k,failCallback:n})}),{cnt:g,ajax:p}},
+"mobile-timing")(ue_csm,window);
+
+</script>
+<script type="text/javascript">
+(function(b){function c(){var d=[];a.log&&a.log.isStub&&a.log.replay(function(a){e(d,a)});a.clog&&a.clog.isStub&&a.clog.replay(function(a){e(d,a)});d.length&&(a._flhs+=1,n(d),p(d))}function g(){a.log&&a.log.isStub&&(a.onflush&&a.onflush.replay&&a.onflush.replay(function(a){a[0]()}),a.onunload&&a.onunload.replay&&a.onunload.replay(function(a){a[0]()}),c())}function e(d,b){var c=b[1],f=b[0],e={};a._lpn[c]=(a._lpn[c]||0)+1;e[c]=f;d.push(e)}function n(b){q&&(a._lpn.csm=(a._lpn.csm||0)+1,b.push({csm:{k:"chk",
+f:a._flhs,l:a._lpn,s:"inln"}}))}function p(a){if(h)a=k(a),b.navigator.sendBeacon(l,a);else{a=k(a);var c=new b[f];c.open("POST",l,!0);c.setRequestHeader&&c.setRequestHeader("Content-type","text/plain");c.send(a)}}function k(a){return JSON.stringify({rid:b.ue_id,sid:b.ue_sid,mid:b.ue_mid,mkt:b.ue_mkt,sn:b.ue_sn,reqs:a})}var f="XMLHttpRequest",q=1===b.ue_ddq,a=b.ue,r=b[f]&&"withCredentials"in new b[f],h=b.navigator&&b.navigator.sendBeacon,l="//"+b.ue_furl+"/1/batch/1/OE/",m=b.ue_fci_ft||5E3;a&&(r||h)&&
+(a._flhs=a._flhs||0,a._lpn=a._lpn||{},a.attach&&(a.attach("beforeunload",g),a.attach("pagehide",g)),m&&b.setTimeout(c,m),a._ffci=c)})(window);
+
+</script>
+<script type="text/javascript">
+(function(l,m){var n=/^(https?:)?\/\//i,e=0,f,g={};f=setInterval(function(){for(var d=m.scripts,h=[],a,b,k=!1,c=0;c<d.length;c++)a=d[c].getAttribute("src"),b=d[c].getAttribute("crossorigin")||"",a&&"undefined"!==a&&n.test(a)&&!g.hasOwnProperty(a)&&"anonymous"!=b&&"use-credentials"!=b&&(g[a]=b,h.push(a),k=!0);k&&l.ue.log({k:"corsscanner",value:h},"csm");e++;5<=e&&clearInterval(f)},1E3)})(ue_csm,document);
+
+</script>
+<script type="text/javascript">
+ue_csm.ue.exec(function(t,a){function p(){if(d&&e){var a;a:{try{a=d.getItem(f);break a}catch(c){}a=void 0}if(a)return b=a,!0}return!1}function q(){b=g;h();if(e)try{d.setItem(f,b)}catch(a){}}function r(){b=1===a.ue_adb_chk?l:g;h();if(e)try{d.setItem(f,b)}catch(c){}}function h(){k.tag(b);k.isl&&a.uex&&uex("at",b);c&&0<c.ec?m():a.ue_adb_rtla&&c&&(c.elh=m)}function m(){a.ue_adb_rtla&&c&&0<c.ec&&!1===n&&(c.elh=null,ueLogError({m:"Hit Info"},{logLevel:"INFO",adb:b}),n=!0)}function s(){return b}if(a.ue_adb){var k=
+a.ue,g="adblk_yes",l="adblk_no",b="adblk_unk",d;a:{try{d=a.localStorage;break a}catch(u){}d=void 0}var f="csm:adb",c=a.ue_err,e=void 0!==a.localStorage,n=!1;p()?h():k.uels("https://m.media-amazon.com/images/G/01/csm/showads.v2.js",{onerror:q,onload:r});a.ue_isAdb=s;a.ue_isAdb.unk="adblk_unk";a.ue_isAdb.no=l;a.ue_isAdb.yes=g}},"adb")(document,window);
+
+</script>
+<script type="text/javascript">
+(function(c,d){var a=c.ue,b=d.characterSet;a&&a.tag&&b&&("UTF-8"!==b&&a.tag("pageEncoding:NonUTF-8"),a.tag("pageEncoding:"+b))})(ue_csm,document);
+
+</script>
+
+
+
+
+</body></html>Ytext/html£’_WebResourceResponseUutf-8_éhttps://images-na.ssl-images-amazon.com/images/G/01/AUIClients/ClientSideMetricsAUIJavascript-bd84e873cef249017676691c4d161b6db4892d5e._V2_.jsOHbplist00‘ÄX$versionX$objectsY$archiverT$top Ü†Ø*#)*0123WXYZ[\]^_`abcdefghijklmnopqrstuyzU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄ Ä)ÄÄ(Ä”$%'(WNS.base[NS.relativeÄ ÄÄ_éhttps://images-na.ssl-images-amazon.com/images/G/01/AUIClients/ClientSideMetricsAUIJavascript-bd84e873cef249017676691c4d161b6db4892d5e._V2_.js“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aø0Ò¡π-ô »”456FVWNS.keysZNS.objectsØ789:;<=>?@ABCDEÄ	Ä
+ÄÄÄÄÄÄÄÄÄÄÄÄÄØGHIJKLMNOPQRSTUÄÄÄÄÄÄÄÄÄ Ä!Ä"Ä#Ä$Ä%Ä&Ä'\Content-Type[X-Amz-Cf-Id_Access-Control-Allow-Origin]Last-ModifiedSAgeSViaVServer_Content-EncodingWExpires_Transfer-Encoding[X-Amz-IR-Id]Cache-ControlTDateZConnectionWX-Cache_'application/x-javascript; charset=utf-8_83r8-DFepU7nt3PdmhcO0-tmhFDVs-Un58vZA8kmObx82BqNqd-AOZQ==Q*_Wed, 26 Jul 2017 14:49:34 GMTV113892_@1.1 207c8bd4b73d3a3c64b79bdf8201df71.cloudfront.net (CloudFront)VServerTgzip_Wed, 18 May 2033 03:33:20 GMTXIdentity_$6dfa7d87-0bf6-4811-897f-4b36018637a8_max-age=630720000,public_Mon, 31 Jul 2017 14:05:47 GMTZkeep-alive_Hit from cloudfront“+,vw_NSMutableDictionary£vx/\NSDictionary_application/x-javascript“+,{|_NSHTTPURLResponse£}~/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—ÅÇ_WebResourceResponseÄ    # - 2 7 d j Ö à å è í ï ô ú £ ¶ © ¨ Ø ≤ ¥ ∂ ∏ ∫ º Ω ø ¡ √ ≈ « … À “ ⁄ Ê Ë Í Ï}Ççñúü®±≥µºƒœ·„ÂÁÈÎÌÔÒÛı˜˘˚˝ˇ!#%')+-/1>Jhvz~Öò†¥¿Œ”ﬁÊKMmt∑æ√„Ï.NYotäéõ∂ªœ”Áı
+              É              "O5(function(d,c,A){function l(a){for(var b={},e,d,y=0;y<a.length;y++)d=a[y],e=d.r+d.s+d.m,d.c&&(b[e]||(b[e]=[]),b[e].push(a[y]));return b}function t(a){for(var b=1;b<arguments.length;b++){var e=arguments[b];try{if(e.isSupported)return e.send(a)}catch(d){}}}function h(){for(var q=0;q<F.length;q++)F[q]();f.length&&(a._flhs+=1,m(),t(l(f.splice(0,f.length)),R,z,L));M=G=0}function m(){O&&g({k:"chk",f:a._flhs,l:a._lpn,s:"full"},"csm")}function g(q,b,e){e=e||{};0===e.bf&&a.isBF||(q={r:e.r||a.rid,s:e.s||d.ue_sid,
+m:e.m||d.ue_mid,mkt:e.mkt||d.ue_mkt,sn:e.sn||d.ue_sn,c:b,d:q,t:e.t||a.d(),cs:e.c&&d.ue_qsl},a._lpn[b]=(a._lpn[b]||0)+1,e.b?t(l([q]),R,L):e.nb?t(l([q]),R,z,L):e.img||V[b]?t(l([q]),L):e.ff?(f.push(q),h()):e.n?(f.push(q),0===S?h():M||(M=c.setTimeout(h,S))):(f.push(q),G||(G=c.setTimeout(h,U))))}function u(a,b,e){P++;P==I&&g({m:"Max number of Forester Logs exceeded",f:"forester-client.js",logLevel:"ERROR"},c.ue_err_chan||"jserr");(P<I||e&&e.il)&&g(a,b,e)}function D(){if(!J){for(var q=0;q<K.length;q++)K[q]();
+for(q=0;q<F.length;q++)F[q]();a._flhs+=1;m();t(l(f.splice(0,f.length)),R,L);J=!0}}var B={};(function(){function a(e){return 10>e?"0"+e:e}function b(e){d.lastIndex=0;return d.test(e)?'"'+e.replace(d,function(e){var a=k[e];return"string"===typeof a?a:"\\u"+("0000"+e.charCodeAt(0).toString(16)).slice(-4)})+'"':'"'+e+'"'}function e(a,q){var d,r,C,k,v=y,n,w=q[a];w&&"object"===typeof w&&"function"===typeof w.toJSON&&(w=w.toJSON(a));"function"===typeof z&&(w=z.call(q,a,w));switch(typeof w){case "string":return b(w);
+case "number":return isFinite(w)?String(w):"null";case "boolean":case "null":return String(w);case "object":if(!w)return"null";y+=W;n=[];if("[object Array]"===Object.prototype.toString.apply(w)){k=w.length;for(d=0;d<k;d+=1)n[d]=e(d,w)||"null";C=0===n.length?"[]":y?"[\n"+y+n.join(",\n"+y)+"\n"+v+"]":"["+n.join(",")+"]";y=v;return C}if(z&&"object"===typeof z)for(k=z.length,d=0;d<k;d+=1)"string"===typeof z[d]&&(r=z[d],(C=e(r,w))&&n.push(b(r)+(y?": ":":")+C));else for(r in w)Object.prototype.hasOwnProperty.call(w,
+r)&&(C=e(r,w))&&n.push(b(r)+(y?": ":":")+C);C=0===n.length?"{}":y?"{\n"+y+n.join(",\n"+y)+"\n"+v+"}":"{"+n.join(",")+"}";y=v;return C}}"function"!==typeof Date.prototype.toJSON&&(Date.prototype.toJSON=function(e){return isFinite(this.valueOf())?this.getUTCFullYear()+"-"+a(this.getUTCMonth()+1)+"-"+a(this.getUTCDate())+"T"+a(this.getUTCHours())+":"+a(this.getUTCMinutes())+":"+a(this.getUTCSeconds())+"Z":null},String.prototype.toJSON=Number.prototype.toJSON=Boolean.prototype.toJSON=function(e){return this.valueOf()});
+var d=/[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,y,W,k={"\b":"\\b","\t":"\\t","\n":"\\n","\f":"\\f","\r":"\\r",'"':'\\"',"\\":"\\\\"},z;"function"!==typeof B.stringify&&(B.stringify=function(a,q,b){var d;W=y="";if("number"===typeof b)for(d=0;d<b;d+=1)W+=" ";else"string"===typeof b&&(W=b);if((z=q)&&"function"!==typeof q&&("object"!==typeof q||"number"!==typeof q.length))throw Error("JSON.stringify");return e("",{"":a})})})();
+var x=function(){function a(b,e){if(null==b)return e.push("!n");if("number"===typeof b)return e.push("!"+b);if("string"===typeof b)return"\\"==b[b.length-1]?e.push("'"+b.replace(/'/g,"\\'")+"u005C'"):e.push("'"+b.replace(/'/g,"\\'")+"'");if("boolean"===typeof b)return e.push(b?"!t":"!f");if(b instanceof Array){e.push("*");for(var d=0;d<b.length;d++)a(b[d],e);return e.push(")")}if("object"==typeof b){e.push("(");for(d in b)b.hasOwnProperty(d)&&(e.push(d),a(b[d],e));return e.push(")")}return e.push("!n")}
+return{stringify:function(b){var e=[];a(b,e);return e.join("")}}}(),T=d.ue_qsl||2E3,H=1===d.ue_retry||3===d.ue_retry,p=3===d.ue_retry,I=1E3,O=1===window.ue_ddq,b=function(){},v=c.JSON&&c.JSON.stringify||B&&B.stringify,k=x.stringify,a=d.ue||{},x=d.uet||b;(d.uet||b)("bb","ue_frst_v2",{wb:1});var N="//"+d.ue_furl+"/1/batch/1/OE/",f=[],K=[],F=[],J=!1,M,G,S=void 0===d.ue_hpfi?1E3:d.ue_hpfi,U=void 0===d.ue_lpfi?1E4:d.ue_lpfi,V={"scheduled-delivery":1},P=0,z=function(){function q(){if(c.XDomainRequest){var e=
+new XDomainRequest;e.onerror=b;e.ontimeout=b;e.onprogress=b;e.onload=b;e.timeout=0;return e}if(c.XMLHttpRequest){e=new XMLHttpRequest;if(!("withCredentials"in e))throw"";return e}if(c.ActiveXObject){for(var a=0;a<r.length&&!e;a++)try{e=new ActiveXObject(r[a]),r=[r[a]]}catch(q){}return e}}function Q(e){for(var q=[],b=e[0]||{},Q=0;Q<e.length;Q++){var r={};r[e[Q].c]=e[Q].d;q.push(r)}return{rid:b.r||a.rid,sid:b.s||d.ue_sid,mid:b.m||d.ue_mid,mkt:b.mkt||d.ue_mkt,sn:b.sn||d.ue_sn,reqs:q}}function e(e){var a=
+Q(e),b=q();if(!b)throw"";H&&(b.onerror=function(){for(var a=0;a<e.length;a++)f.push(e[a]);p&&(z.isSupported=!1)});b.open("POST",N,!0);b.setRequestHeader&&b.setRequestHeader("Content-type","text/plain");b.send(v(a))}var r="MSXML2.XMLHTTP.6.0 MSXML2.XMLHTTP.5.0 MSXML2.XMLHTTP.4.0 MSXML2.XMLHTTP.3.0 MSXML2.XMLHTTP Microsoft.XMLHTTP".split(" ");return{send:function(a){for(var q in a)a.hasOwnProperty(q)&&a[q].length&&e(a[q])},buildPOSTBodyLog:Q,isSupported:!0}}(),L=function(){return{send:function(q){for(var b in q)if(q.hasOwnProperty(b)){for(var e=
+q[b],r=e,y={},W=void 0,z=0;z<r.length;z++)W=r[z].c,y[W]||(y[W]=[]),y[W].push(r[z]);var e=e[0]||{},r=e.sn||d.ue_sn,e=N+(e.m||d.ue_mid)+":"+(e.s||d.ue_sid)+":"+(e.r||a.rid)+(r?":"+r:""),r=[],W=e,z=[],E=void 0;for(E in y)if(y.hasOwnProperty(E))for(var f=0;f<y[E].length;f++){var c=y[E][f],Y=encodeURIComponent((c.cs?k:v)(c.d));z.push({l:Y,t:c.t,p:1,c:E,d:c.cs?"c":"j"})}y=z;z=void 0;E="$";for(c=0;c<y.length;){f=y[c];z!=f.c?(W+=E+f.c+"=",E="&",z=f.c):W+=",";var Y=W,g=f.d+":",C=f,W=(C.l.match(".{1,"+(T-W.length)+
+"}[^%]{0,2}")||[])[0]||"";C.l=C.l.substr(W.length);W=Y+(g+W+":"+f.t);if(f.l)W+=":"+f.p++ +"_",r.push(W),W=e,E="$",z=0;else if(c++,1!=f.p)for(W+=":"+f.p+"_"+f.p,Y=0;Y<f.p-1;Y++)r[r.length-Y-1]+=f.p}r.push(W);e=r;for(r=0;r<e.length;r++)(new Image).src=e[r]}},isSupported:!0}}(),R=function(){return{send:function(a){for(var b in a)if(a.hasOwnProperty(b)){var e=z.buildPOSTBodyLog(a[b]);if(!navigator.sendBeacon(N,v(e)))throw"";}},isSupported:!!navigator.sendBeacon}}();a._fic=L;a._fac=z;a._fbc=R;a._flq=f;
+a.sid=a.sid||d.ue_sid;a.mid=a.mid||d.ue_mid;a.furl=a.furl||d.ue_furl;a.sn=a.sn||d.ue_sn;a.isBF=function(){var q=c.performance||c.webkitPerformance,b=A.ue_backdetect&&A.ue_backdetect.ue_back&&document.ue_backdetect.ue_back.value,e=a.bfini;return q&&q.navigation&&2===q.navigation.type||1<e||!e&&1<b}();a._flhs=a._flhs||0;a._lpn=a._lpn||{};try{c.amznJQ&&c.amznJQ.declareAvailable&&c.amznJQ.declareAvailable("forester-client"),c.P&&c.P.register&&c.P.register("forester-client",b)}catch(E){d.ueLogError(E,
+{logLevel:"WARN"})}(function(){a.log&&a.log.isStub&&(a.log.replay(function(a,b,e){var d=a[2]||{};d.t=b;d.r=e;d.n=1;u(a[0],a[1],d)}),a.onunload.replay(function(a){K.push(a[0])}),a.onflush.replay(function(a){F.push(a[0])}))})();a.log=u;a.log.reset=function(){P=0};a.onunload=function(a){K.push(a)};a.onflush=function(a){F.push(a)};a.attach("beforeunload",D);a.attach("pagehide",D);x("ld","ue_frst_v2",{wb:1})})(ue_csm,window,document);
+(function(d,c){function A(b){if(b)return b.replace(/^\s+|\s+$/g,"")}function l(b,v){if(!b)return{};var k="INFO"===v.logLevel;b.m&&b.m.message&&(b=b.m);var a=v.m||v.message||"",a=b.m&&b.m.message?a+b.m.message:b.m&&b.m.target&&b.m.target.tagName?a+("Error handler invoked by "+b.m.target.tagName+" tag"):b.m?a+b.m:b.message?a+b.message:a+"Unknown error",a={m:a,name:b.name,type:b.type,csm:T+" "+(b.fromOnError?"onerror":"ueLogError")},c,f,g=0,h;a.logLevel=v.logLevel||u;v.adb&&(a.adb=v.adb);if(c=v.attribution)a.attribution=
+""+c;if(!k){a.pageURL=v.pageURL||""+(window.location?window.location.href:"")||"missing";a.f=b.f||b.sourceURL||b.fileName||b.filename||b.m&&b.m.target&&b.m.target.src;a.l=b.l||b.line||b.lineno||b.lineNumber;a.c=b.c?""+b.c:b.c;a.s=[];a.t=d.ue.d();if((k=b.stack||(b.err?b.err.stack:""))&&k.split)for(a.csm+=" stack",c=k.split("\n");g<c.length&&a.s.length<H;)(k=c[g++])&&a.s.push(A(k));else for(a.csm+=" callee",f=t(b.args||arguments,"callee"),c=g=0;f&&g<H;)h=p,f.skipTrace||(k=f.toString())&&k.substr&&(h=
+0===c?4*p:h,h=1==c?2*p:h,a.s.push(k.substr(0,h)),c++),f=t(f,"caller"),g++;if(!a.f&&0<a.s.length&&(g=a)&&g.s){var m,k=0<g.s.length?g.s[0]:"";c=1<g.s.length?g.s[1]:"";k&&(m=k.match(O));m&&3==m.length||!c||(m=c.match(I));m&&3==m.length&&(g.f=m[1],g.l=m[2])}}return a}function t(b,d){try{return b[d]}catch(k){}}function h(b,v){if(b){var k=l(b,v);d.ue.log(k,v.channel||g,{nb:1});"function"===typeof ue_err.elh&&ue_err.elh(b,v);try{if(!b.fromOnError){var a=c.console,N=c.JSON,f="Error logged with the Track&Report JS errors API(http://tiny/1covqr6l8/wamazindeClieUserJava): ";
+if(a){if(N&&N.stringify)try{f+=N.stringify(k)}catch(h){f+="no info provided; converting to string failed"}else f+=k.m;"function"===typeof a.error?a.error(f,k):"function"===typeof a.log&&a.log(f,k)}}}catch(m){}}}function m(b,v){if(b&&!(d.ue_err.ec>d.ue_err.mxe)){d.ue_err.ter.push(b);v=v||{};var k=b.logLevel||v.logLevel;v.logLevel=k;v.attribution=b.attribution||v.attribution;k&&k!==u&&k!==D&&k!==B&&k!==x||d.ue_err.ec++;k&&k!=u||ue_err.ecf++;h(b,v)}}if(!d.ueLogError||d.ueLogError.isStub){var g=d.ue_err_chan||
+"jserr",u="FATAL",D="ERROR",B="WARN",x="DOWNGRADED",T="v5",H=20,p=256,I=/\(?([^\s]*):(\d+):\d+\)?/,O=/.*@(.*):(\d*)/;h.skipTrace=1;l.skipTrace=1;m.skipTrace=1;(function(){if(d.ue_err.erl){var b=d.ue_err.erl.length,v,k;for(v=0;v<b;v++)k=d.ue_err.erl[v],h(k.ex,k.info);ue_err.erl=[]}})();d.ueLogError=m}})(ue_csm,window);
+ue_csm.ue.exec(function(d,c){var A=function(){},l=function(){return{send:function(d,m){if(m&&d){var g;if(c.XDomainRequest)g=new XDomainRequest,g.onerror=A,g.ontimeout=A,g.onprogress=A,g.onload=A,g.timeout=0;else if(c.XMLHttpRequest){if(g=new XMLHttpRequest,!("withCredentials"in g))throw"";}else g=void 0;if(!g)throw"";g.open("POST",d,!0);g.setRequestHeader&&g.setRequestHeader("Content-type","text/plain");g.send(m)}},isSupported:!0}}(),t=function(){return{send:function(d,c){if(d&&c&&!navigator.sendBeacon(d,
+c))throw"";},isSupported:!!navigator.sendBeacon}}();d.ue._ajx=l;d.ue._sBcn=t},"Transportation-clients")(ue_csm,window);
+ue_csm.ue.exec(function(d,c){function A(){for(var a=0;a<arguments.length;a++){var q=arguments[a];try{var d;if(q.isSupported){var e=L.buildPayload(N,k);d=q.send(b,e)}else throw dummyException;return d}catch(r){}}I({m:"All supported clients failed",attribution:"CSMSushiClient_TRANSPORTATION_FAIL",f:"sushi-client.js",logLevel:"ERROR"},c.ue_err_chan||"jserr")}function l(){if(k.length){for(var b=0;b<G.length;b++)G[b]();A(p._sBcn||{},p._ajx||{});k=[];a={};N={};U=V=f=K=0}}function t(){var a=new Date,b=function(a){return 10>
+a?"0"+a:a};return Date.prototype.toISOString?a.toISOString():a.getUTCFullYear()+"-"+b(a.getUTCMonth()+1)+"-"+b(a.getUTCDate())+"T"+b(a.getUTCHours())+":"+b(a.getUTCMinutes())+":"+b(a.getUTCSeconds())+"."+String((a.getUTCMilliseconds()/1E3).toFixed(3)).slice(2,5)+"Z"}function h(a){try{return JSON.stringify(a)}catch(b){}return null}function m(a,b,Q,e){var r=!1;e=e||{};J++;J==B&&I({m:"Max number of Sushi Logs exceeded",f:"sushi-client.js",logLevel:"ERROR",attribution:"CSMSushiClient_MAX_CALLS"},c.ue_err_chan||
+"jserr");var y;if(y=!(J>=B))(y=a&&-1<a.constructor.toString().indexOf("Object")&&b&&-1<b.constructor.toString().indexOf("String")&&Q&&-1<Q.constructor.toString().indexOf("String"))||F++;y&&(a.producerId=a.producerId||b,a.schemaId=a.schemaId||Q,a.timestamp=t(),b=Date.now?Date.now():+new Date,a.messageId=d.ue_id+"-"+b+"-"+J,e&&!e.ssd&&(a.sessionId=a.sessionId||d.ue_sid,a.requestId=a.requestId||d.ue_id,a.obfuscatedMarketplaceId=a.obfuscatedMarketplaceId||d.ue_mid),(b=h(a))?(b=b.length,(k.length==x||
+f+b>T)&&l(),f+=b,a={data:L.compressEvent(a)},k.push(a),(e||{}).n?0===P?l():U||(U=c.setTimeout(l,P)):V||(V=c.setTimeout(l,z)),r=!0):r=!1);!r&&d.ue_int&&console.error("Invalid JS Nexus API call");return r}function g(){if(!S){for(var a=0;a<M.length;a++)M[a]();for(a=0;a<G.length;a++)G[a]();k.length&&A(p._sBcn||{});S=!0}}function u(a){M.push(a)}function D(a){G.push(a)}var B=1E3,x=499,T=524288,H=function(){},p=d.ue||{},I=p.log||H,O=d.uex||H;(d.uet||H)("bb","ue_sushi_v1",{wb:1});var b=d.ue_surl||"https://unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.gamma",
+v=["messageId","timestamp"],k=[],a={},N={},f=0,K=0,F=0,J=0,M=[],G=[],S=!1,U,V,P=void 0===d.ue_hpsi?1E3:d.ue_hpsi,z=void 0===d.ue_lpsi?1E4:d.ue_lpsi,L=function(){function b(e){a[e]="#"+K++;N[a[e]]=e;return a[e]}function q(e){if(e)switch(typeof e){case "number":return!(isNaN(e)||Infinity===e)&&e.toString().length>("#"+K).length;case "boolean":break;case "string":return e.length>("#"+K).length;default:return!0}return!1}function d(e){if(q(e)){var r=0;e instanceof Array?r=2:e instanceof Function?r=0:e instanceof
+Object&&(r=1);switch(r){case 0:e=a[e]?a[e]:b(e);break;case 2:var y=e;e=[];for(var r=y.length,z=0;z<r;z++)e[z]=d(y[z]);break;case 1:r={};for(y in e)e.hasOwnProperty(y)&&(r[a[y]?a[y]:b(y)]=-1==v.indexOf(y)?d(e[y]):e[y]);e=r}}return e}return{compressEvent:d,buildPayload:function(){return h({cs:{dct:N},events:k})}}}();(function(){p.event&&p.event.isStub&&(p.event.replay(function(a){a[3]=a[3]||{};a[3].n=1;m.apply(this,a)}),p.onSushiUnload.replay(function(a){u(a[0])}),p.onSushiFlush.replay(function(a){D(a[0])}))})();
+p.attach("beforeunload",g);p.attach("pagehide",g);p._cmps=L;p.event=m;p.event.reset=function(){J=0};p.onSushiUnload=u;p.onSushiFlush=D;try{c.P&&c.P.register&&c.P.register("sushi-client",H)}catch(R){d.ueLogError(R,{logLevel:"WARN"})}O("ld","ue_sushi_v1",{wb:1})},"Nxs-JS-Client")(ue_csm,window);_application/x-javascript‘_}https://images-na.ssl-images-amazon.com/images/G/01/nav2/gamma/websiteGlobalCSS/websiteGlobalCSS-websiteGlobal-10346._V1_.cssO≤bplist00‘z{X$versionX$objectsY$archiverT$top Ü†Ø'#)*0123UVWXYZ[\]^_`abcdefghijklmnopquU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄ Ä&ÄÄÄ”$%'(WNS.base[NS.relativeÄ ÄÄ_}https://images-na.ssl-images-amazon.com/images/G/01/nav2/gamma/websiteGlobalCSS/websiteGlobalCSS-websiteGlobal-10346._V1_.css“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aø0Ò¡πN] »”456ETWNS.keysZNS.objectsÆ789:;<=>?@ABCDÄ	Ä
+ÄÄÄÄÄÄÄÄÄÄÄÄÆGHIJKLMNOPQRSÄÄÄÄÄÄÄÄÄÄ Ä!Ä"Ä#Ä$Ä%\Content-Type[X-Amz-Cf-Id_Access-Control-Allow-Origin]Last-ModifiedSAgeSViaVServer_Content-EncodingWExpires_Transfer-Encoding]Cache-ControlTDateZConnectionWX-CacheXtext/css_8MPkY5qHjkQDnI2Hqw9I7iyFDtpzaexo_2AaGgQtQH96Dw_efBfsIcw==Q*_Fri, 25 Jun 2010 18:22:49 GMTW4897264_@1.1 01635f0b43503ebd4bd390ca2787acb4.cloudfront.net (CloudFront)VServerTgzip_Wed, 18 May 2033 03:33:20 GMTXIdentity_max-age=630720000,public_Tue, 06 Jun 2017 06:45:35 GMTZkeep-alive_Hit from cloudfront“+,rs_NSMutableDictionary£rt/\NSDictionary“+,vw_NSHTTPURLResponse£xy/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—|}_WebResourceResponseÄ    # - 2 7 a g Ç Ö â å è í ñ ô † £ ¶ © ¨ Ø ± ≥ µ ∑ π ∫ º æ ¿ ¬ ƒ ∆ » œ ◊ „ Â Á ÈinyÇàãîùü°®∞ª ÃŒ–“‘÷ÿ⁄‹ﬁ‡‚‰Êı˜˘˚˝ˇ	 ,JX\`gzÇñ§©¥º≈ "*mtyô¢Ω›Ë˛*/CG[i{~î             ~              ñO7æ
+body { 
+  background-color: #FFFFFF; 
+}
+* html body { 
+  margin-top: 0px; 
+}
+h2.small, h2.h1, h2.h3color { 
+  margin-bottom: 0em; 
+}
+.serif { 
+  font-family: times, serif;
+}
+.h1, .h3color {
+  color: #E47911;
+}
+
+a:active {
+  color: #FF9933;
+}
+a:visited {
+  color: #996633;
+}
+a:link {
+  color: #004B91;
+}
+a.noclick, a.noclick:visited {
+  color: #000000;
+}
+
+.noLinkDecoration a {
+  text-decoration: none;
+  border-bottom: none;
+}
+.noLinkDecoration a:hover {
+  text-decoration: underline;
+}
+.noLinkDecoration a.dynamic:hover {
+  text-decoration: none;
+  border-bottom: 1px dashed;
+}
+.noLinkDecoration a.noclick:hover {
+  color: #000000;
+  text-decoration: none;
+  border-bottom: 1px dashed;
+}
+
+.rightArrow {
+  color: #E47911;
+  font-weight: bold;
+  padding-right: 6px;
+}
+.nobullet {
+  list-style-type: none;
+}
+.homepageTitle {
+  font-size: 28pt;
+  font-family: 'Arial Bold', Arial, sans-serif;
+  font-weight: 800;
+  font-variant: normal;
+  font-weight: bold;
+  color: #80B6CE;
+  line-height: 1em;
+}
+div.h_rule {
+  clear: both;
+}
+.horizontal-search {
+  font-weight: bold;
+  color: #FFFFFF;
+}
+.horizontal-websearch {
+  padding-left: 12px; 
+}
+
+.popover-tiny a, .popover-tiny a:visited {
+  text-decoration: none;
+  color: #003399;
+}
+.popover-tiny a:hover {
+  text-decoration: none;
+  color: #E47911;
+}
+.tabon a:hover, .taboff a:hover {
+  text-decoration: underline;
+}
+.tabon div, .taboff div {
+  margin-top: 7px;
+  margin-left: 9px;
+  margin-bottom: 5px;
+}
+.tabon a, .tabon a:visited, .taboff a, .tabboff a:visited {
+  font-size: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 10px;
+}
+.tabon a, .tabon a:visited {
+  color: #FFCC66;
+}
+.taboff a, .taboff a:visited {
+  color: #000000
+}
+.indent {
+  margin-left: 1em;
+}
+.half {
+  font-size: .5em;
+}
+.list div {
+  margin-bottom: 0.25em;
+  text-decoration: none;
+}
+.hr-center {
+  margin: 15px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: dotted;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: #999999;
+  border-right-color: #999999;
+  border-bottom-color: #999999;
+  border-left-color: #999999;
+}
+
+
+
+.listprice {
+  text-decoration: line-through;
+}
+.attention {
+  background-color: #FFFFD5;
+}
+.price, .tinyprice, .highlight {
+  color: #990000;
+}
+.alert {
+  color: #FF0000;
+  font-weight: bold;
+}
+.alertgreen {
+  color: #009900;
+  font-weight: bold;
+}
+
+
+.topnav {
+  font-size: 12px;
+  text-decoration: none;
+}
+.topnav a:link, .topnav a:visited {
+  text-decoration: none;
+  color: #003399;
+}
+.topnav a:hover {
+  text-decoration: none; color: #E47911;
+}
+.topnav-active a:link, .topnav-active a:visited {
+  font-size: 12px;
+  color: #E47911;
+  text-decoration: none;
+}
+.active-nav {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+.inactive-nav {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+div.left_nav {
+  font-size: 100%; 
+  margin: 0;
+  line-height: 1.05em;
+  width: 100%;
+  border: 1px solid #C9E1F4;
+  padding-bottom: 10px;
+}
+div.left_nav h2 {
+  margin: 0 0 0 0;
+  color: #000000;
+  font-weight: bold;
+  line-height: 1.25em;
+  font-size: 100%;
+  padding: 3px 6px;
+  background-color: #EAF3FE;
+}
+div.left_nav h3 {
+  margin: 0.5em 0 0.4em 0.5em;
+  color: #E47911;
+  font-weight: bold;
+  line-height: 1em;
+  font-size: 100%;
+  padding-right: 0.5em;
+}
+div.left_nav ul {
+  margin: 0;
+  padding: 0;
+}
+div.left_nav li, div.left_nav p {
+  list-style: none;
+  margin: 0.5em 0.5em 0 1em;
+  line-height: 1.2em;
+}
+div.left_nav hr {
+  margin: 1em 0.5em; 
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px dashed #CCCCCC;
+}
+div.left_nav a:link, div.left_nav a:visited {
+  color: #003399;
+  text-decoration: none;
+}
+div.left_nav a:hover {
+  color: #2A70FC;
+  text-decoration: underline;
+}
+div.left_nav p.seeMore {
+  padding-left: 0.9em;
+  text-indent: -0.9em;
+  margin-top: 0.35em;
+  margin-bottom: 1em;
+}
+div.left_nav p.seeMore a:link, div.left_nav p.seeMore a:visited {
+  text-decoration: none;
+}
+div.left_nav p.seeMore a:hover {
+  text-decoration: underline;
+}
+
+div.leftnav_popover {
+  width: 35em;
+  border: 3px solid #ededd3;
+  padding: 10px;
+}
+div.leftnav_popover li {
+  font-size: 100%;
+}
+div.leftnav_popover h2 {
+  margin: 0 0 0.5em 0;
+  color: #E47911;
+  line-height: 1em;
+  font-size: 100%;
+  padding-right: 0.5em;
+  background-color: #FFFFFF;
+  padding-left: 0;
+}
+div.leftnav_popover ul.popover_col {
+  float: left;
+  width: 33%;
+  margin: 0;
+  padding: 0;
+}
+div.leftnav_popover ul.popover_col li {
+  list-style: none;
+  font-size: 90%;
+  line-height: 1.2em;
+  margin: 0 5px 0.7em 0;
+}
+div.leftnav_popover ul.popover_col li a {
+  text-decoration: none;
+}
+div.leftnav_popover ul.popover_col li a:hover {
+  text-decoration: underline;
+}
+div.leftnav_popover p.seeMore {
+  margin-left: 0;
+}
+div.leftnav_popover div.h_rule_popup {
+  clear: left;
+  margin-bottom: 5px;
+  border-bottom: 1px dashed #CCCCCC;
+}
+
+
+
+.amabot_right .h1, .amabot_left .h1 {
+  color: #E47911;
+  font-size: .92em;
+}
+.amabot_right .amabot_widget .headline, .amabot_left .amabot_widget .headline {
+  color: #E47911;
+  font-size: .92em;
+  display: block;
+  font-weight: bold;
+}
+.amabot_widget .headline {
+  color: #E47911;
+  display: block;
+  font-weight: bold;
+}
+.amabot_right .amabot_widget, .amabot_left .amabot_widget {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-bottom: 1px solid #C9E1F4;
+  border-left: 1px solid #C9E1F4;
+  border-right: 1px solid #C9E1F4;
+  border-top: 1px solid #C9E1F4;
+}
+.amabot_center div.unified_widget, .amabot_center .amabot_widget, .amabot_right div.unified_widget, .amabot_right .amabot_widget, .amabot_left div.unified_widget, .amabot_left .amabot_widget {
+  font-size: 12px;
+}
+
+.amabot_left .amabot_widget, .amabot_right .amabot_widget, .tigerbox {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-bottom: 1px solid #C9E1F4;
+  border-left: 1px solid #C9E1F4;
+  border-right: 1px solid #C9E1F4;
+  border-top: 1px solid #C9E1F4;
+}
+.amabot_right div.unified_widget .headline, .amabot_left div.unified_widget .headline {
+  color: #E47911;
+  font-size: .92em;
+  display: block;
+  font-weight: bold;
+}
+td.amabot_left div.unified_widget h2, td.amabot_right div.unified_widget h2, div.amabot_left div.unified_widget h2, div.amabot_right div.unified_widget h2 {
+  font-size: 100%;
+  margin: 0 0 0.5em 0;
+}
+td.amabot_center div.unified_widget h2, div.amabot_center div.unified_widget h2 {
+  font-size: 135%;
+  font-weight: bold;
+  margin: 0 0 0.35em 0px;
+}
+td.amabot_center, div.amabot_center { 
+  padding: 5px 15px 5px 10px;
+}
+td.amabot_right div.unified_widget, td.amabot_left div.unified_widget, div.amabot_right div.unified_widget, div.amabot_left div.unified_widget {
+  border:1px solid #C9E1F4;
+  padding: 8px;
+  margin-bottom: 20px;
+}
+* html td.amabot_right div.unified_widget, * html div.amabot_right div.unified_widget, * html td.amabot_left div.unified_widget, * html div.amabot_left div.unified_widget {
+  height: 100%;
+}
+
+div.unified_widget p {
+  margin: 0 0 0.5em 0;
+  line-height: 1.4em;
+}
+div.unified_widget h2 {
+  color: #E47911;
+  padding: 0;
+}
+div.unified_widget .headline {
+  color: #E47911;
+  display: block;
+  font-weight: bold;
+}
+div.unified_widget sup {
+  font-weight: normal;
+  font-size: 75%;
+}
+div.unified_widget h2 sup {
+  font-size: 50%;
+}
+div.unified_widget ul {
+  margin: 1em 0;
+  padding: 0 0 0 15px;
+  list-style-position: inside;
+}
+div.unified_widget ol {
+  margin: 0;
+  padding: 0 0 0 2.5em;
+}
+div.unified_widget a:link, div.unified_widget a:visited, div.unified_widget a:hover {
+  text-decoration: underline;
+}
+div.unified_widget p.seeMore {
+  clear: both;
+  margin: 0;
+  padding-left: 1.15em;
+  text-indent: -1.15em;
+  font-size: 100%;
+  font-weight: normal;
+}
+div.unified_widget p.seeMore a:link, div.unified_widget p.seeMore a:visited, div.unified_widget p.seeMore a:hover {
+  text-decoration: underline;
+}
+div.unified_widget .carat, div.left_nav .carat {
+  font-weight: bold;
+  font-size: 120%;
+  color: #E47911;
+  margin-right: 0.20em;
+}
+div.unified_widget a img {
+  border: 0;
+}
+div.unified_widget {
+  margin-bottom: 2em;
+  clear: both;
+}
+div.unified_widget div.col1 {
+  width: 100%; 
+}
+div.unified_widget div.col2 {
+  width: 49%;
+}
+div.unified_widget div.col3 {
+  width: 32%;
+}
+div.unified_widget div.col4 {
+  width: 24%;
+}
+div.unified_widget div.col5 {
+  width: 19%;
+}
+div.unified_widget table {
+  border: 0;
+  border-collapse: collapse;
+  width: 100%;
+}
+div.unified_widget td {
+  padding: 0 8px 8px 0;
+  vertical-align: top;
+}
+div.unified_widget table.col1 td { 
+  width: 100%;
+}
+div.unified_widget table.col2 td {
+  width: 49%;
+}
+div.unified_widget table.col3 td {
+  width: 32%;
+}
+div.unified_widget table.col4 td {
+  width: 24%;
+}
+div.unified_widget table col5 td {
+  width: 19%;
+}
+div.unified_widget td.bottom {
+  vertical-align: baseline;
+}
+div.unified_widget table h4, div.unified_widget h4 {
+  color: #000;
+  font-size: 100%;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+div.unified_widget ol {
+  margin: 0;
+  padding: 0 0 0 2.5em;
+}
+div.unified_widget ol.topList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+div.unified_widget ol.topList li {
+  list-style: none;
+  clear: both;
+  display: list-item;
+  padding-top: 6px;
+}
+div.unified_widget ol.topList .productImage {
+  display: block;
+  float: left;
+  vertical-align: top;
+  text-align: center;
+  width: 60px;
+}
+div.unified_widget ol.topList .productText {
+  display: block;
+  float: left;
+  padding-left: 10px;
+  vertical-align: top;
+}
+:root div.unified_widget span.productImage, :root div.unified_widget span.productText {
+  display: table-cell;
+  float: none;
+}
+
+div.unified_widget dl.priceBlock {
+  margin: 0 0 0.45em 0;
+}
+div.unified_widget dl.priceBlock dt {
+  clear: left;
+  font-weight: bold;
+  float: left;
+  margin: 0 0.3em 0 0;
+}
+div.unified_widget dl.priceBlock dd {
+  margin: 0 0 0.2em 0;
+}
+div.unified_widget .bold {
+  font-weight: bold;
+}
+div.unified_widget .byline {
+  font-size: 95%;
+  font-weight: normal;
+}
+
+
+div.blurb div.title {
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 2px;
+}
+
+div.row {
+  clear: both;
+}
+body.dp div.h_rule, body.dp div.unified_widget {
+  clear: none;
+}
+
+
+div.seller_central li {
+  font-size: 95%;
+}
+
+
+div.rcmBody div.prodImage, amabot_widget div.prodImage {
+  float: left;
+  margin: 0px 0.5em 0.25em 0px;
+}
+div.rcmBody, amabot_widget div.rcmBody {
+  line-height: 1.4em;
+}
+div.rcmBody a:link, div.rcmBody a:visited {
+  text-decoration: underline;
+}
+div.rcmBody p.seeMore, amabot_widget div.rcmBody p.seeMore {
+  margin-top: 0.5em;
+}
+div.rcmBody div.bannerImage {
+  text-align: center;
+}
+div.rcmBody h2 span.homepageTitle {
+  display: block;
+  margin-bottom: -0.3em;
+  margin-top: -0.12em;
+  line-height: 1em;
+}
+div.rcmBody h2 img {
+  float: none;
+}
+table.coopTable div.rcmBody .headline {
+  font-size: 110%;
+}
+table.coopTable div.rcmBody h2 {
+  font-size: 110%;
+  font-weight: bold;
+}
+div.asinItem {
+  float: left;
+  margin-bottom: 1em;
+  width: 32%;
+}
+div.asinItem div.prodImage {
+  height: 121px; 
+  display: table-cell;
+  vertical-align: bottom;
+}
+div.asinItem div.localImage {
+  display: table-cell;
+  vertical-align: bottom;
+}
+div.asinItem span {
+  margin: 0.5em 0 0.25em 0;
+}
+div.asinItem ul {
+  margin: 0;
+  padding: 0 0 0.5em 1.3em;
+  text-indent: -1.3em;
+  font-size: 90%;
+}
+div.asinTextBlock {
+  padding: 0 8px 8px 0;
+}
+div.asinTitle {
+  padding-top: 3px; 
+  padding-bottom: 2px;
+}
+
+div.asinCoop div.asinItem {
+  float: none;
+  width: 100%;
+}
+
+div.newAndFuture div.asinItem ul {
+  font-size: 100%;
+}
+div.newAndFuture div.asinItem li {
+  list-style-position: outside;
+  margin: 0 0 0.35em 20px;
+  padding: 0;
+  text-indent: 0;
+}
+div.newAndFuture h3 {
+  font-size: 100%;
+  margin: 1em 0;
+}
+div.newAndFuture a:link, div.newAndFuture a:visited, div.newAndFuture a:hover {
+  text-decoration: underline;
+}
+div.newAndFuture p.seeMore {
+  margin: -0.75em 0 0 35px;
+}
+
+table.thirdLvlNavContent div.blurb {
+  margin: 10px;
+}
+
+div.pageBanner h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 225%;
+  color: #E47911;
+  letter-spacing: -0.03em; 
+  margin: 0;
+}
+div.pageBanner p {
+  font-size: 90%;
+  color: #888888;
+  margin: 0;
+}
+div.pageBanner h1.bkgnd {
+  background-repeat: no-repeat;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  text-indent: -100em;
+}
+
+
+.tigerbox {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-bottom: 1px solid #C9E1F4;
+  border-left: 1px solid #C9E1F4;
+  border-right: 1px solid #C9E1F4;
+  border-top: 1px solid #C9E1F4;
+}
+.tigerBox .head, .tigerBox.body, .tigerBoxWithEyebrow .body, .detailPageTigerBox .body {
+  border: 1px solid #CCCC99;
+}
+.tigerBox .head {
+  border-bottom-width: 0px;
+  background-color: #EEEECC;
+}
+.tigerBoxWithEyebrow .head, .detailPageTigerBox .head {
+  border-width: 0px;
+}
+.detailPageTigerBox .darkCell {
+  background-color: #EEEECC;
+}
+.eyebrow {
+  font-size: 10px; 
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.eyebrow a:link {
+  text-decoration: none;
+}
+.hr-leftbrowse {
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: dashed;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: #999999;
+  border-right-color: #999999;
+  border-bottom-color: #999999;
+  border-left-color: #999999;
+}
+
+
+div#page-wrap {
+  min-width: 980px;
+}
+div#leftcol, div#leftcolhidden {
+  float: left;
+  width: 180px;
+  margin: 5px 0px 0px 5px;
+  display: inline;
+}
+div#rightcol, div#rightcolhidden {
+  float: right;
+  width: 300px;
+  margin-top: 5px;
+}
+div#leftcolhidden {
+  clear: left;
+}
+div#rightcolhidden {
+  clear: right;
+}
+div#center1, div#centercol, div#centerrightspancol {
+  overflow: hidden;
+}
+* html div#center1, * html div#centercol, * html div#centerrightspancol {
+  width: 100%;
+}
+div#page-footer {
+  clear: both;
+}
+* html div#page-wrap {
+  border-right: 980px solid #fff;
+  width: 100%;
+  margin-right: 25px;
+}
+* html div#content {
+  float: left;
+  position: relative;
+  margin-right: -980px;
+}
+div#centerrightspancol div.h_rule {
+  clear: right;
+}
+
+
+Xtext/css‘_fhttps://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/amazon-logo-tiny._CB192256679_.gifOkbplist00‘vwX$versionX$objectsY$archiverT$top Ü†Ø%#)*0123STUVWXYZ[\]^_`abcdefghijklmqU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄ Ä$ÄÄÄ”$%'(WNS.base[NS.relativeÄ ÄÄ_fhttps://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/amazon-logo-tiny._CB192256679_.gif“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aø0Ò¡πe
+ »”456DRWNS.keysZNS.objects≠789:;<=>?@ABCÄ	Ä
+ÄÄÄÄÄÄÄÄÄÄÄ≠FGHIJKLMNOPQÄÄÄÄÄÄÄÄÄÄÄ Ä!Ä"Ä#\Content-Type[X-Amz-Cf-Id_Access-Control-Allow-Origin]Last-ModifiedSAgeSViaVServerWExpires]Cache-ControlTDate^Content-LengthZConnectionWX-CacheYimage/gif_81iQb7XIMWbne3ddxSmrVKsv30J5aq6ArBvJCGXJmyGU4xjbt6dnRBw==Q*_Thu, 03 Jun 2010 15:52:42 GMTW4827827_@1.1 24249c4e855dc87b99d6f2dcc8bbb7fb.cloudfront.net (CloudFront)VServer_Wed, 18 May 2033 03:33:20 GMT_max-age=630720000,public_Wed, 07 Jun 2017 21:50:06 GMTT1451Zkeep-alive_Hit from cloudfront“+,no_NSMutableDictionary£np/\NSDictionary“+,rs_NSHTTPURLResponse£tu/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—xy_WebResourceResponseÄ    # - 2 7 _ e Ä É á ä ç ê î ó û ° § ß ™ ≠ Ø ± ≥ µ ∑ ∏ ∫ º æ ¿ ¬ ƒ ∆ Õ ’ · „ Â ÁPU`ior{ÑÜàèó¢∞≤¥∂∏∫ºæ¿¬ƒ∆» ÿ⁄‹ﬁ‡‚‰ÊËÍÏÓÚÙ+9=AHP^cr}Öè ÃÏÙ7>^yôû©øƒ⁄ﬁÎ*<?U             z              WO´GIF89aq  ı  ˇˇˇ   ◊◊◊ˇï˛ÎÕzzzÌÌÌ∑∑∑VVUÛÚÚ˛√iããã,,,			!!!≠≠≠˛™,<<<„„„CCCfff˛∏Nùùù˛–âêêê≈≈≈œœœ222ÅÅÅLLL˝€ß˘˘˘˛Û‡•••ˇ†˛˘Ò¸¸¸˛Âæ˛˝˜˛ˇˇ˛˛˛¸ˇˇˇ˛¸ˇˇ˛ÊÍÒ®®®ËËËrrq˜˜˜øøøﬁﬁﬁ___·‰Í'''àààñññôôôˆ˜˘!˘     ,    q   ˛@Ä04ôÃV¬d(i0$W3g29+Jìß¨ˆ4úö‹i(úò’∫…nÜ$å›∞a25‡ñ¬lû'Ÿ9v2C484954gBêRùû9xâIù$hI5à≥∂ 28ót; 8<	'4—“n7””4ì”—\6‚—#	 =,‚B<„“7SÿN'T∏∆Äçá  ‰∏ˆÅGÉ⁄L–@¡√Ñ—d8∞# 5ˆE„ aáy8ú˘‡—∆Al8 4¢@SÇ⁄ç‡ë·F˛Äˆ2HÎ–-⁄;!:@∞ ⁄ Xpp≤Z ~&´±cDÉW X˙®A¬∆	ñ<ÈMHëB<çGÌ˙˝€±Cä»d^≤Tà÷ÅX4
+BP+4¿“"y$! G¸N∞´ÏÜÉYØ
+…˙!	>—J ÿxê#⁄é∑—zÄº÷¿ñÅí˝Ñ$H ‡â¢ÄÖ‡–¢⁄
+ë¢sH¿6 b ÒH∞öÈfƒ"ÅÖ∂÷<ÄZ˘.<túˆ:d¥j5ÆA∞ç[ 
+(•ü±˛£õ¢¶Ù8¯‡—huÂ°çh`Å:I¥&ÉÅ·ç˜îî°ÄE˛1P K¥'“+dw}¸8a` , @C8 @!≤±·zöáç +˙›t'h\8abê@·)“Mv^Õq¿>!¬ â&¢»@0í Ñ61
+AÂú’PîZ–¡Õ˘ò†⁄p¿tBp√+∞Ù¿íBå7 N¢h–TÈﬁïfπ!n5å˜ì	UÕ%˝Ñ@=8—Z ˛5ÜXcn6)ƒA®ÒGA1u„U°®Ä>˘Âaå¿xÉ'åòËéãÚS√—∞p@/9⁄9)%‡®Ãp5 Ä
+œõ l–xhYkﬂÙ@iYΩ˙g†I4ÜPv˛ÌPd—`…´>mô‘Ä›U⁄¿/›–At @`˛1é:Yq:≠tœ0ce»†T2@¿Ç\ ¡R–AÎÌ∏≤ÇDAø7ÏŸ ÑqF:B∂Ò;Tï:∑!üêÅ+:ƒ√2;ƒ4√(=$Eå`Y¥^ıê@7ò&6^
+q@IÛ@`]#ÑwÄFßåÄ&6\  h ° 6hpN6l∞ƒ	h∞A»@Æ L¿À*§@ 
+à R+lê¡‡±°62É∞!∑øz–√vT»¿Édœi√	h ∫ù∑ëD
+`˙Í¨ ÇîP¬Ã %Ä–˙Ì∏ÁÆ;Î D† .Ïæ:
+ éÇÿ.¸ÚÃ7Ø`
+&4?Ö
+((†`˝˜‡∑ûÚD ı*o
+ΩKoÇ%T˛¸ÙÒB˚¥˚~æ)¿Ä/0@ÄÅË—/xÅÔ“WøÜ/  ﬂ &X>(‡ÇÑ›Ï(Xà }(Å‡HBaO§†
+WH;``ÑB8KHCÎôÄÄ(åùÏvæ∞Ü@§aﬂD@Ä"Q&òaóÿÖ   ;Yimage/gif            1   <   Z   i   Ä   í   ®   Æ      Ë  Ë"  Ë&  Ë1  ËG  ËM  Ëﬁ  Ô* $I $d $m $Ì *£ be bn bw b‡ hO m˛                           n
